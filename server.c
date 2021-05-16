@@ -62,30 +62,29 @@ void* thread_consumer(void* arg){
         
 
         sprintf(private_fifo_name, "/tmp/%d.%ld", msg.pid, msg.tid);
+
+        struct Message* response_msg = malloc(sizeof(struct Message));
+        response_msg->pid = getpid();
+        response_msg->rid = msg.rid;
+        response_msg->tid = pthread_self();
+        response_msg->tskload = msg.tskload;
+        response_msg->tskres = msg.tskres;s
 		
         //access the private fifo
         int np = open(private_fifo_name, O_WRONLY | O_NONBLOCK);
 
         if(np < 0){
-            //couldnt open private fifo, it was already deleted
-            stdout_from_fifo(&msg, "FAILD");
+            stdout_from_fifo(&msg, "FAILD"); //couldnt open private fifo, it was already deleted
         }
         else{
+            write(np,response_msg,sizeof(struct Message));
+
             if (msg.tskres == -1){
                 stdout_from_fifo(&msg, "2LATE");
             }
             else stdout_from_fifo(&msg, "TSKDN");
-            
-            struct Message* response_msg = malloc(sizeof(struct Message));
-            response_msg->pid = getpid();
-            response_msg->rid = msg.rid;
-            response_msg->tid = pthread_self();
-            response_msg->tskload = msg.tskload;
-            response_msg->tskres = msg.tskres;
-
-            write(np,response_msg,sizeof(struct Message));
-            free(response_msg);
 		}
+        free(response_msg);
         free(private_fifo_name);
    }
 }

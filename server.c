@@ -139,7 +139,7 @@ void *thread_create(void* arg){
 	while(seconds_elapsed < param->seconds_to_run){
         //check if theres requests on the public fifo, if so create a Producer thread
         struct Message *msg = malloc(sizeof(struct Message));
-        printf("malloc msg done!\n");
+       
         int res = read(public_fifo_descriptor, msg, sizeof(struct Message));
         if(res > 0){
             param_producer.begin = param->begin;

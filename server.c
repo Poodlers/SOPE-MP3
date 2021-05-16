@@ -68,7 +68,7 @@ void* thread_consumer(void* arg){
         response_msg->rid = msg.rid;
         response_msg->tid = pthread_self();
         response_msg->tskload = msg.tskload;
-        response_msg->tskres = msg.tskres;s
+        response_msg->tskres = msg.tskres;
 		
         //access the private fifo
         int np = open(private_fifo_name, O_WRONLY | O_NONBLOCK);

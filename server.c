@@ -14,6 +14,7 @@
 #include "lib.h"
 
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+
 struct thread_param
 {
 	time_t begin;
@@ -39,33 +40,36 @@ void stdout_from_fifo(struct Message *msg, char *operation){
 }
 
 void move_buffer_elements_back(){
+    //pthread_mutex_lock(&mutex);
     for (int i = 0; i < buffer_size-1;i++){
         buffer[i] = buffer[i+1];
     }
     buffer_index--;
+    //pthread_mutex_unlock(&mutex);
 }
 
 void* thread_consumer(void* arg){
-    char* private_fifo_name = (char *) malloc(50 * sizeof(char));
+   
 
     struct Message msg;
 	struct thread_param *param = (struct thread_param *) arg;
-    double seconds_elapsed = 0;
 
-   while(seconds_elapsed < param->seconds_to_run){
+   while(true){     
+        char* private_fifo_name = (char *) malloc(50 * sizeof(char));
 
         sem_wait(&sem_empty); //decreases one every time it removes from the buffer, when it reaches 0 the buffer is empty so it block
-		
+
         msg = buffer[0];
         move_buffer_elements_back();
-		
+
 		sem_post(&sem_full); //increses every time it removes from the buffer, signaling that there is empty space in the buffer so the productors can work
-    
+        
+
         sprintf(private_fifo_name, "/tmp/%d.%ld", msg.pid, msg.tid);
 		printf("fifo name: %s\n", private_fifo_name);
 		//access the private fifo
 
-        int np = open(private_fifo_name, O_RDONLY);
+        int np = open(private_fifo_name, O_WRONLY);
         printf("DID not block! mp: %d\n\n", np);
 
         if(np < 0){
@@ -87,35 +91,35 @@ void* thread_consumer(void* arg){
 
             write(np,response_msg,sizeof(struct Message));
 		}
-        seconds_elapsed = time(NULL) - param->begin;
-
+        free(private_fifo_name);
    }
-
-    free(private_fifo_name);
-    pthread_exit(NULL);
-
+   pthread_exit(NULL);
 }
 
 void* handle_request(void* arg){
 
     struct producer_thread_param* param = (struct producer_thread_param *) arg;
-    struct Message* msg = param->msg;
+
+    struct Message msg = *param->msg;
+    free(param->msg);
 
     //check if there hasnt been a timeout
     double seconds_elapsed = time(NULL) - param->begin;
 	if(seconds_elapsed >= param->seconds_to_run){
-        msg->tskres = -1;
+        msg.tskres = -1;
     }else{
-		int server_response = task(msg->tskload);
-		msg->tskres = server_response;
-        stdout_from_fifo(msg, "TSKEX");
+		int server_response = task(msg.tskload);
+		msg.tskres = server_response;
+        stdout_from_fifo(&msg, "TSKEX");
     }
 
-	sem_wait(&sem_full); //decreases one every time it adds to the buffer, when it reaches 0 the buffer is full so it blocks
-    buffer[buffer_index] = *msg;
-    buffer_index++;
-    sem_post(&sem_empty); //increses every time it adds to the buffer, signaling that there is something in the buffer and that the consumer can work
 
+	sem_wait(&sem_full); //decreases one every time it adds to the buffer, when it reaches 0 the buffer is full so it blocks
+    //pthread_mutex_lock(&mutex);
+    buffer[buffer_index] = msg;
+    buffer_index++;
+    //pthread_mutex_unlock(&mutex);
+    sem_post(&sem_empty); //increses every time it adds to the buffer, signaling that there is something in the buffer and that the consumer can work
 
 	pthread_exit(NULL);
 }
@@ -130,20 +134,14 @@ void *thread_create(void* arg){
 
     //open the public fifo
 
-    if (mkfifo(param->fifoname,0666) < 0) {
-        perror("mkfifo");
-    }
-
-
     int public_fifo_descriptor = open(param->fifoname, O_RDONLY);
 
-	struct Message *msg = malloc(sizeof(struct Message));
+	
     struct producer_thread_param param_producer;
-
 	while(seconds_elapsed < param->seconds_to_run){
         //check if theres requests on the public fifo, if so create a Producer thread
+        struct Message *msg = malloc(sizeof(struct Message));
         int res = read(public_fifo_descriptor, msg, sizeof(struct Message));
-        
         if(res > 0){
             param_producer.begin = param->begin;
             param_producer.msg = msg;
@@ -155,11 +153,10 @@ void *thread_create(void* arg){
             
 		}
 		seconds_elapsed = time(NULL) - param->begin;
+        
     }
-
+	
     close(public_fifo_descriptor);
-	remove(param->fifoname);
-	free(msg);
 
 	for(int i = 0; i< num_of_threads; i++) {
 	    pthread_join(ids[i], NULL);	
@@ -170,6 +167,13 @@ void *thread_create(void* arg){
 
 int main(int argc, char* argv[]){
     time_t begin = time(NULL);
+
+    char* fifoname = (char *) malloc(50 * sizeof(char));
+    sprintf(fifoname,"%s",argv[5]);
+
+    if (mkfifo(fifoname,0666) < 0) {
+        perror("mkfifo");
+    }
     
     //argv[1] should be "-t"
     //argv[2] should be an int
@@ -211,10 +215,7 @@ int main(int argc, char* argv[]){
 
 	pthread_t s0, sc;
     
-    char* fifoname = (char *) malloc(50 * sizeof(char));
-    sprintf(fifoname,"%s",argv[5]);
 
-	printf("%s", fifoname);
 
 	//create the consumer thread (envia mensagens do buffer para as threads privadas)
          
@@ -223,12 +224,15 @@ int main(int argc, char* argv[]){
     param.seconds_to_run = seconds_to_run;
     param.fifoname = fifoname;
 
-    printf("hello this is the main thread! \n");
 	pthread_create(&s0, NULL, thread_create, &param);
     pthread_create(&sc, NULL, thread_consumer,&param);
    
     pthread_join(s0,NULL);
 	printf("s0 is finished \n");
+
+    //buffer isn't empty so the consumer thread has to keep running
+    while(buffer_index != 0){}
+
 	pthread_cancel(sc); //If thread blocks because buffer is empty and is unable to notice that time is up.
 
 	free(fifoname);
@@ -238,6 +242,7 @@ int main(int argc, char* argv[]){
     sem_destroy(&sem_full);
 	sem_destroy(&sem_empty);
 
+    remove(fifoname);
 	return 0;
 }
 

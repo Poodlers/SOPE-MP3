@@ -70,7 +70,7 @@ void* thread_consumer(void* arg){
 		//access the private fifo
 
         int np = open(private_fifo_name, O_WRONLY);
-        printf("DID not block! mp: %d\n\n", np);
+    
 
         if(np < 0){
             //couldnt open private fifo, it was already deleted
@@ -228,7 +228,6 @@ int main(int argc, char* argv[]){
     pthread_create(&sc, NULL, thread_consumer,&param);
    
     pthread_join(s0,NULL);
-	printf("s0 is finished \n");
 
     //buffer isn't empty so the consumer thread has to keep running
     while(buffer_index != 0){}

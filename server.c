@@ -44,7 +44,6 @@ void move_buffer_elements_back(){
         buffer[i] = buffer[i+1];
     }
     buffer_index--;
-    printf("Just moved one bufer_index back and it's now %d\n", buffer_index);
 }
 
 void* thread_consumer(void* arg){
@@ -63,12 +62,9 @@ void* thread_consumer(void* arg){
         
 
         sprintf(private_fifo_name, "/tmp/%d.%ld", msg.pid, msg.tid);
-		printf("fifo name: %s\n", private_fifo_name);
 		
         //access the private fifo
-        printf("open\n");
         int np = open(private_fifo_name, O_WRONLY | O_NONBLOCK);
-        printf("OPENED!\n");
 
         if(np < 0){
             //couldnt open private fifo, it was already deleted
@@ -116,7 +112,6 @@ void* handle_request(void* arg){
     
     buffer[buffer_index] = msg;
     buffer_index++;
-    printf("added one buffer index: %d \n", buffer_index);
     sem_post(&sem_empty); //increses every time it adds to the buffer, signaling that there is something in the buffer and that the consumer can work
 
 	pthread_exit(NULL);
@@ -154,7 +149,6 @@ void *thread_create(void* arg){
 		seconds_elapsed = time(NULL) - param->begin;
     }
     close(public_fifo_descriptor);
-    printf("\ntime elapsed is over!\n\n");
 
 
 	for(int i = 0; i< num_of_threads; i++) {
@@ -228,14 +222,12 @@ int main(int argc, char* argv[]){
     pthread_create(&sc, NULL, thread_consumer,&param);
    
     pthread_join(s0,NULL);
-    printf("buffer_index : %d \n", buffer_index);
     //buffer isn't empty so the consumer thread has to keep running
     while(buffer_index != 0){
     }
 
 	pthread_cancel(sc); //If thread blocks because buffer is empty and is unable to notice that time is up.
 
-    printf("thread consumer is closed!\n");
 
 	free(fifoname);
     free(buffer);
@@ -245,7 +237,6 @@ int main(int argc, char* argv[]){
 	sem_destroy(&sem_empty);
 
     remove(fifoname);
-    printf("SERVER CLOSING!");
 	return 0;
 }
 

@@ -40,10 +40,12 @@ void stdout_from_fifo(struct Message *msg, char *operation){
 }
 
 void move_buffer_elements_back(){
+    pthread_mutex_lock(&mutex);
     for (int i = 0; i < buffer_size-1;i++){
         buffer[i] = buffer[i+1];
     }
     buffer_index--;
+    pthread_mutex_unlock(&mutex);
 }
 
 void* thread_consumer(void* arg){
@@ -77,12 +79,15 @@ void* thread_consumer(void* arg){
             stdout_from_fifo(&msg, "FAILD"); //couldnt open private fifo, it was already deleted
         }
         else{
-            write(np,response_msg,sizeof(struct Message));
-
-            if (msg.tskres == -1){
-                stdout_from_fifo(&msg, "2LATE");
+            if (write(np,response_msg,sizeof(struct Message)) == -1){
+                stdout_from_fifo(&msg, "FAILD");
             }
-            else stdout_from_fifo(&msg, "TSKDN");
+            else{
+                if (msg.tskres == -1){
+                    stdout_from_fifo(&msg, "2LATE");
+                }
+                else stdout_from_fifo(&msg, "TSKDN");
+            }
 		}
         free(response_msg);
         free(private_fifo_name);
@@ -108,9 +113,10 @@ void* handle_request(void* arg){
 
 
 	sem_wait(&sem_full); //decreases one every time it adds to the buffer, when it reaches 0 the buffer is full so it blocks
-    
+    pthread_mutex_lock(&mutex);
     buffer[buffer_index] = msg;
     buffer_index++;
+    pthread_mutex_unlock(&mutex);
     sem_post(&sem_empty); //increses every time it adds to the buffer, signaling that there is something in the buffer and that the consumer can work
 
 	pthread_exit(NULL);

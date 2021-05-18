@@ -1,1439 +1,1752 @@
-malloc msg done!
-1621199262; 0; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 1; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 2; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 3; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 4; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 5; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 6; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 7; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 8; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 1; 2; 65417; 140487598188288; 10; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333722769152
-open
-OPENED!
-1621199262; 1; 2; 65417; 140487614973696; 10; TSKDN 
-1621199262; 0; 4; 65417; 140487606580992; 20; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333731161856
-open
-OPENED!
-1621199262; 0; 4; 65417; 140487614973696; 20; TSKDN 
-1621199262; 9; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 10; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 11; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 12; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 2; 8; 65417; 140487589795584; 30; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333714376448
-open
-OPENED!
-1621199262; 2; 8; 65417; 140487614973696; 30; TSKDN 
-1621199262; 6; 2; 65417; 140487482656512; 40; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333476206336
-open
-OPENED!
-1621199262; 6; 2; 65417; 140487614973696; 40; TSKDN 
-1621199262; 13; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 3; 7; 65417; 140487507834624; 50; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333705983744
-open
-OPENED!
-1621199262; 3; 7; 65417; 140487614973696; 50; TSKDN 
-1621199262; 14; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 7; 2; 65417; 140487474263808; 60; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333467813632
-open
-OPENED!
-1621199262; 7; 2; 65417; 140487614973696; 60; TSKDN 
-1621199262; 4; 7; 65417; 140487499441920; 70; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333492991744
-open
-OPENED!
-1621199262; 4; 7; 65417; 140487614973696; 70; TSKDN 
-1621199262; 15; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 5; 7; 65417; 140487491049216; 80; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333484599040
-open
-OPENED!
-1621199262; 5; 7; 65417; 140487614973696; 80; TSKDN 
-1621199262; 16; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 8; 4; 65417; 140487465871104; 90; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333459420928
-open
-OPENED!
-1621199262; 8; 4; 65417; 140487614973696; 90; TSKDN 
-1621199262; 17; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 10; 2; 65417; 140487306508032; 100; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333442635520
-open
-OPENED!
-1621199262; 10; 2; 65417; 140487614973696; 100; TSKDN 
-1621199262; 18; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 9; 5; 65417; 140487457478400; 110; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333451028224
-open
-OPENED!
-1621199262; 9; 5; 65417; 140487614973696; 110; TSKDN 
-1621199262; 19; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 20; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 12; 2; 65417; 140487289722624; 120; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333149054720
-open
-OPENED!
-1621199262; 12; 2; 65417; 140487614973696; 120; TSKDN 
-1621199262; 21; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199262; 13; 2; 65417; 140487281329920; 130; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333140662016
-open
-OPENED!
-1621199262; 13; 2; 65417; 140487614973696; 130; TSKDN 
-1621199262; 22; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 11; 7; 65417; 140487298115328; 140; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333157447424
-open
-OPENED!
-1621199263; 11; 7; 65417; 140487614973696; 140; TSKDN 
-1621199263; 14; 3; 65417; 140487272937216; 150; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333132269312
-open
-OPENED!
-1621199263; 14; 3; 65417; 140487614973696; 150; TSKDN 
-1621199263; 23; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 24; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 25; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 15; 6; 65417; 140487264544512; 160; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333123876608
-open
-OPENED!
-1621199263; 15; 6; 65417; 140487614973696; 160; TSKDN 
-1621199263; 26; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 18; 2; 65417; 140487239366400; 170; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333023229696
-open
-OPENED!
-1621199263; 18; 2; 65417; 140487614973696; 170; TSKDN 
-1621199263; 27; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 19; 4; 65417; 140487230973696; 180; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333014836992
-open
-OPENED!
-1621199263; 19; 4; 65417; 140487614973696; 180; TSKDN 
-1621199263; 28; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 16; 9; 65417; 140487256151808; 190; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333115483904
-open
-OPENED!
-1621199263; 16; 9; 65417; 140487614973696; 190; TSKDN 
-1621199263; 17; 7; 65417; 140487247759104; 200; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333107091200
-open
-OPENED!
-1621199263; 17; 7; 65417; 140487614973696; 200; TSKDN 
-1621199263; 29; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 30; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 21; 5; 65417; 140487214188288; 210; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332998051584
-open
-OPENED!
-1621199263; 21; 5; 65417; 140487614973696; 210; TSKDN 
-1621199263; 31; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 20; 9; 65417; 140487222580992; 220; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140333006444288
-open
-OPENED!
-1621199263; 20; 9; 65417; 140487614973696; 220; TSKDN 
-1621199263; 32; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 23; 5; 65417; 140487197402880; 230; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332981266176
-open
-OPENED!
-1621199263; 23; 5; 65417; 140487614973696; 230; TSKDN 
-1621199263; 33; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 34; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 22; 9; 65417; 140487205795584; 240; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332989658880
-open
-OPENED!
-1621199263; 22; 9; 65417; 140487614973696; 240; TSKDN 
-1621199263; 26; 3; 65417; 140487172224768; 250; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332956088064
-open
-OPENED!
-1621199263; 26; 3; 65417; 140487614973696; 250; TSKDN 
-1621199263; 35; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 24; 8; 65417; 140487189010176; 260; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332972873472
-open
-OPENED!
-1621199263; 24; 8; 65417; 140487614973696; 260; TSKDN 
-1621199263; 25; 7; 65417; 140487180617472; 270; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332964480768
-open
-OPENED!
-1621199263; 25; 7; 65417; 140487614973696; 270; TSKDN 
-1621199263; 36; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 28; 4; 65417; 140487155439360; 280; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332939302656
-open
-OPENED!
-1621199263; 28; 4; 65417; 140487614973696; 280; TSKDN 
-1621199263; 37; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 29; 4; 65417; 140487147046656; 290; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332930909952
-open
-OPENED!
-1621199263; 29; 4; 65417; 140487614973696; 290; TSKDN 
-1621199263; 38; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 30; 4; 65417; 140487138653952; 300; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332922517248
-open
-OPENED!
-1621199263; 30; 4; 65417; 140487614973696; 300; TSKDN 
-1621199263; 27; 9; 65417; 140487163832064; 310; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332947695360
-open
-OPENED!
-1621199263; 27; 9; 65417; 140487614973696; 310; TSKDN 
-1621199263; 39; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 32; 3; 65417; 140487121868544; 320; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332905731840
-open
-OPENED!
-1621199263; 32; 3; 65417; 140487614973696; 320; TSKDN 
-1621199263; 40; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 41; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 33; 5; 65417; 140487113475840; 330; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332897339136
-open
-OPENED!
-1621199263; 33; 5; 65417; 140487614973696; 330; TSKDN 
-1621199263; 42; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 31; 9; 65417; 140487130261248; 340; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332914124544
-open
-OPENED!
-1621199263; 31; 9; 65417; 140487614973696; 340; TSKDN 
-1621199263; 43; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 37; 1; 65417; 140487079905024; 350; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332863768320
-open
-OPENED!
-1621199263; 37; 1; 65417; 140487614973696; 350; TSKDN 
-1621199263; 44; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 34; 7; 65417; 140487105083136; 360; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332888946432
-open
-OPENED!
-1621199263; 34; 7; 65417; 140487614973696; 360; TSKDN 
-1621199263; 45; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 35; 8; 65417; 140487096690432; 370; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332880553728
-open
-OPENED!
-1621199263; 35; 8; 65417; 140487614973696; 370; TSKDN 
-1621199263; 46; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 36; 7; 65417; 140487088297728; 380; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332872161024
-open
-OPENED!
-1621199263; 36; 7; 65417; 140487614973696; 380; TSKDN 
-1621199263; 47; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 38; 5; 65417; 140487071512320; 390; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332855375616
-open
-OPENED!
-1621199263; 38; 5; 65417; 140487614973696; 390; TSKDN 
-1621199263; 40; 2; 65417; 140487054726912; 400; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332838590208
-open
-OPENED!
-1621199263; 40; 2; 65417; 140487614973696; 400; TSKDN 
-1621199263; 48; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 39; 5; 65417; 140487063119616; 410; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332846982912
-open
-OPENED!
-1621199263; 39; 5; 65417; 140487614973696; 410; TSKDN 
-1621199263; 49; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 50; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 51; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 43; 3; 65417; 140487029548800; 420; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332813412096
-open
-OPENED!
-1621199263; 43; 3; 65417; 140487614973696; 420; TSKDN 
-1621199263; 52; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 42; 6; 65417; 140487037941504; 430; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332821804800
-open
-OPENED!
-1621199263; 42; 6; 65417; 140487614973696; 430; TSKDN 
-1621199263; 53; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 41; 8; 65417; 140487046334208; 440; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332830197504
-open
-OPENED!
-1621199263; 41; 8; 65417; 140487614973696; 440; TSKDN 
-1621199263; 46; 1; 65417; 140487004370688; 450; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332788233984
-open
-OPENED!
-1621199263; 46; 1; 65417; 140487614973696; 450; TSKDN 
-1621199263; 54; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 45; 3; 65417; 140487012763392; 460; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332796626688
-open
-OPENED!
-1621199263; 45; 3; 65417; 140487614973696; 460; TSKDN 
-1621199263; 44; 6; 65417; 140487021156096; 470; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332805019392
-open
-OPENED!
-1621199263; 44; 6; 65417; 140487614973696; 470; TSKDN 
-1621199263; 55; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 56; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 48; 3; 65417; 140486987585280; 480; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332771448576
-open
-OPENED!
-1621199263; 48; 3; 65417; 140487614973696; 480; TSKDN 
-1621199263; 57; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 49; 3; 65417; 140486979192576; 490; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332763055872
-open
-OPENED!
-1621199263; 49; 3; 65417; 140487614973696; 490; TSKDN 
-1621199263; 50; 1; 65417; 140486970799872; 500; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332754663168
-open
-OPENED!
-1621199263; 50; 1; 65417; 140487614973696; 500; TSKDN 
-1621199263; 58; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 59; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 51; 2; 65417; 140486962407168; 510; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332746270464
-open
-OPENED!
-1621199263; 51; 2; 65417; 140487614973696; 510; TSKDN 
-1621199263; 47; 9; 65417; 140486995977984; 520; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332779841280
-open
-OPENED!
-1621199263; 47; 9; 65417; 140487614973696; 520; TSKDN 
-1621199263; 60; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 61; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 55; 1; 65417; 140486928836352; 530; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332712699648
-open
-OPENED!
-1621199263; 55; 1; 65417; 140487614973696; 530; TSKDN 
-1621199263; 62; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 63; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 54; 5; 65417; 140486937229056; 540; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332721092352
-open
-OPENED!
-1621199263; 54; 5; 65417; 140487614973696; 540; TSKDN 
-1621199263; 52; 8; 65417; 140486954014464; 550; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332737877760
-open
-OPENED!
-1621199263; 52; 8; 65417; 140487614973696; 550; TSKDN 
-1621199263; 64; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 56; 3; 65417; 140486920443648; 560; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332704306944
-open
-OPENED!
-1621199263; 56; 3; 65417; 140487614973696; 560; TSKDN 
-1621199263; 65; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 53; 9; 65417; 140486945621760; 570; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332729485056
-open
-OPENED!
-1621199263; 53; 9; 65417; 140487614973696; 570; TSKDN 
-1621199263; 58; 2; 65417; 140486903658240; 580; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332687521536
-open
-OPENED!
-1621199263; 58; 2; 65417; 140487614973696; 580; TSKDN 
-1621199263; 66; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 57; 4; 65417; 140486912050944; 590; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332695914240
-open
-OPENED!
-1621199263; 57; 4; 65417; 140487614973696; 590; TSKDN 
-1621199263; 67; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 68; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 59; 5; 65417; 140486895265536; 600; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332679128832
-open
-OPENED!
-1621199263; 59; 5; 65417; 140487614973696; 600; TSKDN 
-1621199263; 69; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 70; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 61; 5; 65417; 140486878480128; 610; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332662343424
-open
-OPENED!
-1621199263; 61; 5; 65417; 140487614973696; 610; TSKDN 
-1621199263; 71; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 62; 4; 65417; 140486870087424; 620; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332653950720
-open
-OPENED!
-1621199263; 62; 4; 65417; 140487614973696; 620; TSKDN 
-1621199263; 72; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 60; 9; 65417; 140486886872832; 630; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332670736128
-open
-OPENED!
-1621199263; 60; 9; 65417; 140487614973696; 630; TSKDN 
-1621199263; 65; 1; 65417; 140486844909312; 640; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332628772608
-open
-OPENED!
-1621199263; 65; 1; 65417; 140487614973696; 640; TSKDN 
-1621199263; 73; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 64; 5; 65417; 140486853302016; 650; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332637165312
-open
-OPENED!
-1621199263; 64; 5; 65417; 140487614973696; 650; TSKDN 
-1621199263; 74; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 75; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 63; 9; 65417; 140486861694720; 660; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332645558016
-open
-OPENED!
-1621199263; 63; 9; 65417; 140487614973696; 660; TSKDN 
-1621199263; 76; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 77; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 66; 7; 65417; 140486836516608; 670; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332620379904
-open
-OPENED!
-1621199263; 66; 7; 65417; 140487614973696; 670; TSKDN 
-1621199263; 69; 3; 65417; 140486811338496; 680; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332595201792
-open
-OPENED!
-1621199263; 69; 3; 65417; 140487614973696; 680; TSKDN 
-1621199263; 78; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 67; 8; 65417; 140486828123904; 690; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332611987200
-open
-OPENED!
-1621199263; 67; 8; 65417; 140487614973696; 690; TSKDN 
-1621199263; 79; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 68; 8; 65417; 140486819731200; 700; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332603594496
-open
-OPENED!
-1621199263; 68; 8; 65417; 140487614973696; 700; TSKDN 
-1621199263; 80; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 70; 6; 65417; 140486802945792; 710; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332586809088
-open
-OPENED!
-1621199263; 70; 6; 65417; 140487614973696; 710; TSKDN 
-1621199263; 71; 5; 65417; 140486794553088; 720; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332578416384
-open
-OPENED!
-1621199263; 71; 5; 65417; 140487614973696; 720; TSKDN 
-1621199263; 81; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 82; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 73; 5; 65417; 140486777767680; 730; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332561630976
-open
-OPENED!
-1621199263; 73; 5; 65417; 140487614973696; 730; TSKDN 
-1621199263; 74; 4; 65417; 140486769374976; 740; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332553238272
-open
-OPENED!
-1621199263; 74; 4; 65417; 140487614973696; 740; TSKDN 
-1621199263; 83; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 76; 2; 65417; 140486752589568; 750; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332536452864
-open
-OPENED!
-1621199263; 76; 2; 65417; 140487614973696; 750; TSKDN 
-1621199263; 72; 8; 65417; 140486786160384; 760; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332570023680
-open
-OPENED!
-1621199263; 72; 8; 65417; 140487614973696; 760; TSKDN 
-1621199263; 84; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 85; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199263; 75; 6; 65417; 140486760982272; 770; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332544845568
-open
-OPENED!
-1621199263; 75; 6; 65417; 140487614973696; 770; TSKDN 
-1621199264; 86; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 78; 3; 65417; 140486735804160; 780; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332519667456
-open
-OPENED!
-1621199264; 78; 3; 65417; 140487614973696; 780; TSKDN 
-1621199264; 87; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 77; 7; 65417; 140486744196864; 790; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332528060160
-open
-OPENED!
-1621199264; 77; 7; 65417; 140487614973696; 790; TSKDN 
-1621199264; 81; 1; 65417; 140486710626048; 800; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332494489344
-open
-OPENED!
-1621199264; 81; 1; 65417; 140487614973696; 800; TSKDN 
-1621199264; 88; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 80; 4; 65417; 140486719018752; 810; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332502882048
-open
-OPENED!
-1621199264; 80; 4; 65417; 140487614973696; 810; TSKDN 
-1621199264; 89; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 79; 6; 65417; 140486727411456; 820; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332511274752
-open
-OPENED!
-1621199264; 79; 6; 65417; 140487614973696; 820; TSKDN 
-1621199264; 82; 3; 65417; 140486702233344; 830; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332486096640
-open
-OPENED!
-1621199264; 82; 3; 65417; 140487614973696; 830; TSKDN 
-1621199264; 90; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 91; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 83; 4; 65417; 140486693840640; 840; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332477703936
-open
-OPENED!
-1621199264; 83; 4; 65417; 140487614973696; 840; TSKDN 
-1621199264; 85; 1; 65417; 140486677055232; 850; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332460918528
-open
-OPENED!
-1621199264; 85; 1; 65417; 140487614973696; 850; TSKDN 
-1621199264; 92; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 93; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 94; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 95; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 87; 2; 65417; 140486660269824; 860; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332444133120
-open
-OPENED!
-1621199264; 87; 2; 65417; 140487614973696; 860; TSKDN 
-1621199264; 96; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 84; 8; 65417; 140486685447936; 870; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332469311232
-open
-OPENED!
-1621199264; 84; 8; 65417; 140487614973696; 870; TSKDN 
-1621199264; 89; 1; 65417; 140486643484416; 880; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332427347712
-open
-OPENED!
-1621199264; 89; 1; 65417; 140487614973696; 880; TSKDN 
-1621199264; 86; 6; 65417; 140486668662528; 890; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332452525824
-open
-OPENED!
-1621199264; 86; 6; 65417; 140487614973696; 890; TSKDN 
-1621199264; 88; 3; 65417; 140486651877120; 900; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332435740416
-open
-OPENED!
-1621199264; 88; 3; 65417; 140487614973696; 900; TSKDN 
-1621199264; 97; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 90; 2; 65417; 140486635091712; 910; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332418955008
-open
-OPENED!
-1621199264; 90; 2; 65417; 140487614973696; 910; TSKDN 
-1621199264; 98; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 91; 2; 65417; 140486626699008; 920; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332410562304
-open
-OPENED!
-1621199264; 91; 2; 65417; 140487614973696; 920; TSKDN 
-1621199264; 99; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 100; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 101; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 102; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 94; 2; 65417; 140486601520896; 930; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332385384192
-open
-OPENED!
-1621199264; 94; 2; 65417; 140487614973696; 930; TSKDN 
-1621199264; 103; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 92; 6; 65417; 140486618306304; 940; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332402169600
-open
-OPENED!
-1621199264; 92; 6; 65417; 140487614973696; 940; TSKDN 
-1621199264; 93; 6; 65417; 140486609913600; 950; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332393776896
-open
-OPENED!
-1621199264; 93; 6; 65417; 140487614973696; 950; TSKDN 
-1621199264; 104; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 95; 4; 65417; 140486593128192; 960; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332376991488
-open
-OPENED!
-1621199264; 95; 4; 65417; 140487614973696; 960; TSKDN 
-1621199264; 96; 3; 65417; 140486584735488; 970; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332368598784
-open
-OPENED!
-1621199264; 96; 3; 65417; 140487614973696; 970; TSKDN 
-1621199264; 105; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 106; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 97; 4; 65417; 140486576342784; 980; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332360206080
-open
-OPENED!
-1621199264; 97; 4; 65417; 140487614973696; 980; TSKDN 
-1621199264; 99; 1; 65417; 140486559557376; 990; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332343420672
-open
-OPENED!
-1621199264; 99; 1; 65417; 140487614973696; 990; TSKDN 
-1621199264; 107; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 108; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 98; 5; 65417; 140486567950080; 1000; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332351813376
-open
-OPENED!
-1621199264; 98; 5; 65417; 140487614973696; 1000; TSKDN 
-1621199264; 109; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 110; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 111; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 102; 4; 65417; 140486534379264; 1010; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332318242560
-open
-OPENED!
-1621199264; 102; 4; 65417; 140487614973696; 1010; TSKDN 
-1621199264; 104; 1; 65417; 140486517593856; 1020; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332301457152
-open
-OPENED!
-1621199264; 104; 1; 65417; 140487614973696; 1020; TSKDN 
-1621199264; 101; 6; 65417; 140486542771968; 1030; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332326635264
-open
-OPENED!
-1621199264; 101; 6; 65417; 140487614973696; 1030; TSKDN 
-1621199264; 112; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 100; 9; 65417; 140486551164672; 1040; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332335027968
-open
-OPENED!
-1621199264; 100; 9; 65417; 140487614973696; 1040; TSKDN 
-1621199264; 103; 5; 65417; 140486525986560; 1050; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332309849856
-open
-OPENED!
-1621199264; 103; 5; 65417; 140487614973696; 1050; TSKDN 
-1621199264; 113; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 106; 1; 65417; 140486500808448; 1060; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332284671744
-open
-OPENED!
-1621199264; 106; 1; 65417; 140487614973696; 1060; TSKDN 
-1621199264; 114; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 115; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 105; 5; 65417; 140486509201152; 1070; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332293064448
-open
-OPENED!
-1621199264; 105; 5; 65417; 140487614973696; 1070; TSKDN 
-1621199264; 107; 3; 65417; 140486492415744; 1080; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332276279040
-open
-OPENED!
-1621199264; 107; 3; 65417; 140487614973696; 1080; TSKDN 
-1621199264; 108; 2; 65417; 140486484023040; 1090; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332267886336
-open
-OPENED!
-1621199264; 108; 2; 65417; 140487614973696; 1090; TSKDN 
-1621199264; 116; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 109; 2; 65417; 140486475630336; 1100; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332259493632
-open
-OPENED!
-1621199264; 109; 2; 65417; 140487614973696; 1100; TSKDN 
-1621199264; 117; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 118; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 119; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 110; 5; 65417; 140486467237632; 1110; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332251100928
-open
-OPENED!
-1621199264; 110; 5; 65417; 140487614973696; 1110; TSKDN 
-1621199264; 120; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 111; 6; 65417; 140486458844928; 1120; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332242708224
-open
-OPENED!
-1621199264; 111; 6; 65417; 140487614973696; 1120; TSKDN 
-1621199264; 112; 5; 65417; 140486450452224; 1130; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332234315520
-open
-OPENED!
-1621199264; 112; 5; 65417; 140487614973696; 1130; TSKDN 
-1621199264; 121; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 115; 1; 65417; 140486425274112; 1140; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332209137408
-open
-OPENED!
-1621199264; 115; 1; 65417; 140487614973696; 1140; TSKDN 
-1621199264; 122; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 123; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 114; 5; 65417; 140486433666816; 1150; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332217530112
-open
-OPENED!
-1621199264; 114; 5; 65417; 140487614973696; 1150; TSKDN 
-1621199264; 113; 7; 65417; 140486442059520; 1160; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332225922816
-open
-OPENED!
-1621199264; 113; 7; 65417; 140487614973696; 1160; TSKDN 
-1621199264; 124; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 125; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 119; 1; 65417; 140486391703296; 1170; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332175566592
-open
-OPENED!
-1621199264; 119; 1; 65417; 140487614973696; 1170; TSKDN 
-1621199264; 126; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 116; 7; 65417; 140486416881408; 1180; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332200744704
-open
-OPENED!
-1621199264; 116; 7; 65417; 140487614973696; 1180; TSKDN 
-1621199264; 127; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 117; 6; 65417; 140486408488704; 1190; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332192352000
-open
-OPENED!
-1621199264; 117; 6; 65417; 140487614973696; 1190; TSKDN 
-1621199264; 128; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 118; 7; 65417; 140486400096000; 1200; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332183959296
-open
-OPENED!
-1621199264; 118; 7; 65417; 140487614973696; 1200; TSKDN 
-1621199264; 129; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 122; 2; 65417; 140486366525184; 1210; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332150388480
-open
-OPENED!
-1621199264; 122; 2; 65417; 140487614973696; 1210; TSKDN 
-1621199264; 120; 6; 65417; 140486383310592; 1220; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332167173888
-open
-OPENED!
-1621199264; 120; 6; 65417; 140487614973696; 1220; TSKDN 
-1621199264; 130; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 121; 5; 65417; 140486374917888; 1230; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332158781184
-open
-OPENED!
-1621199264; 121; 5; 65417; 140487614973696; 1230; TSKDN 
-1621199264; 131; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 124; 2; 65417; 140486349739776; 1240; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332133603072
-open
-OPENED!
-1621199264; 124; 2; 65417; 140487614973696; 1240; TSKDN 
-1621199264; 132; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 133; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 125; 5; 65417; 140486341347072; 1250; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332125210368
-open
-OPENED!
-1621199264; 125; 5; 65417; 140487614973696; 1250; TSKDN 
-1621199264; 126; 3; 65417; 140486332954368; 1260; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332116817664
-open
-OPENED!
-1621199264; 126; 3; 65417; 140487614973696; 1260; TSKDN 
-1621199264; 134; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 123; 9; 65417; 140486358132480; 1270; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332141995776
-open
-OPENED!
-1621199264; 123; 9; 65417; 140487614973696; 1270; TSKDN 
-1621199264; 128; 1; 65417; 140486316168960; 1280; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332100032256
-open
-OPENED!
-1621199264; 128; 1; 65417; 140487614973696; 1280; TSKDN 
-1621199264; 135; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 136; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 129; 3; 65417; 140486307776256; 1290; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332091639552
-open
-OPENED!
-1621199264; 129; 3; 65417; 140487614973696; 1290; TSKDN 
-1621199264; 137; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 130; 2; 65417; 140486299383552; 1300; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332083246848
-open
-OPENED!
-1621199264; 130; 2; 65417; 140487614973696; 1300; TSKDN 
-1621199264; 127; 8; 65417; 140486324561664; 1310; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332108424960
-open
-OPENED!
-1621199264; 127; 8; 65417; 140487614973696; 1310; TSKDN 
-1621199264; 138; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 139; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 132; 2; 65417; 140486282598144; 1320; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332066461440
-open
-OPENED!
-1621199264; 132; 2; 65417; 140487614973696; 1320; TSKDN 
-1621199264; 131; 4; 65417; 140486290990848; 1330; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332074854144
-open
-OPENED!
-1621199264; 131; 4; 65417; 140487614973696; 1330; TSKDN 
-1621199264; 140; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 141; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 142; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 135; 2; 65417; 140486257420032; 1340; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332041283328
-open
-OPENED!
-1621199264; 135; 2; 65417; 140487614973696; 1340; TSKDN 
-1621199264; 133; 6; 65417; 140486274205440; 1350; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332058068736
-open
-OPENED!
-1621199264; 133; 6; 65417; 140487614973696; 1350; TSKDN 
-1621199264; 143; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 144; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 145; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 134; 8; 65417; 140486265812736; 1360; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332049676032
-open
-OPENED!
-1621199264; 134; 8; 65417; 140487614973696; 1360; TSKDN 
-1621199264; 138; 2; 65417; 140486232241920; 1370; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332016105216
-open
-OPENED!
-1621199264; 138; 2; 65417; 140487614973696; 1370; TSKDN 
-1621199264; 146; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 139; 1; 65417; 140486223849216; 1380; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332007712512
-open
-OPENED!
-1621199264; 139; 1; 65417; 140487614973696; 1380; TSKDN 
-1621199264; 137; 5; 65417; 140486240634624; 1390; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332024497920
-open
-OPENED!
-1621199264; 137; 5; 65417; 140487614973696; 1390; TSKDN 
-1621199264; 147; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 148; 4; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199264; 136; 9; 65417; 140486249027328; 1400; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140332032890624
-open
-OPENED!
-1621199264; 136; 9; 65417; 140487614973696; 1400; TSKDN 
-1621199265; 149; 5; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 140; 4; 65417; 140486215456512; 1410; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331999319808
-open
-OPENED!
-1621199265; 140; 4; 65417; 140487614973696; 1410; TSKDN 
-1621199265; 142; 3; 65417; 140486198671104; 1420; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331982534400
-open
-OPENED!
-1621199265; 142; 3; 65417; 140487614973696; 1420; TSKDN 
-1621199265; 150; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 141; 5; 65417; 140486207063808; 1430; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331990927104
-open
-OPENED!
-1621199265; 141; 5; 65417; 140487614973696; 1430; TSKDN 
-1621199265; 151; 9; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 152; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 145; 3; 65417; 140486173492992; 1440; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331957356288
-open
-OPENED!
-1621199265; 145; 3; 65417; 140487614973696; 1440; TSKDN 
-1621199265; 153; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 154; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 143; 9; 65417; 140486190278400; 1450; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331974141696
-open
-OPENED!
-1621199265; 143; 9; 65417; 140487614973696; 1450; TSKDN 
-1621199265; 144; 8; 65417; 140486181885696; 1460; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331965748992
-open
-OPENED!
-1621199265; 144; 8; 65417; 140487614973696; 1460; TSKDN 
-1621199265; 155; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 147; 4; 65417; 140486156707584; 1470; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331940570880
-open
-OPENED!
-1621199265; 147; 4; 65417; 140487614973696; 1470; TSKDN 
-1621199265; 156; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 146; 7; 65417; 140486165100288; 1480; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331948963584
-open
-OPENED!
-1621199265; 146; 7; 65417; 140487614973696; 1480; TSKDN 
-1621199265; 148; 4; 65417; 140486148314880; 1490; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331932178176
-open
-OPENED!
-1621199265; 148; 4; 65417; 140487614973696; 1490; TSKDN 
-1621199265; 150; 2; 65417; 140486131529472; 1500; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331915392768
-open
-OPENED!
-1621199265; 150; 2; 65417; 140487614973696; 1500; TSKDN 
-1621199265; 157; 1; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 149; 5; 65417; 140486139922176; 1510; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331923785472
-open
-OPENED!
-1621199265; 149; 5; 65417; 140487614973696; 1510; TSKDN 
-1621199265; 158; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 152; 1; 65417; 140486114744064; 1520; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331898607360
-open
-OPENED!
-1621199265; 152; 1; 65417; 140487614973696; 1520; TSKDN 
-1621199265; 159; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 160; 6; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 161; 3; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 162; 7; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 155; 1; 65417; 140486089565952; 1530; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331873429248
-open
-OPENED!
-1621199265; 155; 1; 65417; 140487614973696; 1530; TSKDN 
-1621199265; 163; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 151; 9; 65417; 140486123136768; 1540; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331907000064
-open
-OPENED!
-1621199265; 151; 9; 65417; 140487614973696; 1540; TSKDN 
-1621199265; 164; 2; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 153; 7; 65417; 140486106351360; 1550; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331890214656
-open
-OPENED!
-1621199265; 153; 7; 65417; 140487614973696; 1550; TSKDN 
-1621199265; 156; 2; 65417; 140486081173248; 1560; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331865036544
-open
-OPENED!
-1621199265; 156; 2; 65417; 140487614973696; 1560; TSKDN 
-1621199265; 154; 7; 65417; 140486097958656; 1570; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331881821952
-open
-OPENED!
-1621199265; 154; 7; 65417; 140487614973696; 1570; TSKDN 
-1621199265; 165; 8; 65417; 140487623366400; -1; RECVD 
-malloc msg done!
-1621199265; 157; 1; 65417; 140486072780544; 1580; TSKEX 
-added one buffer index: 1 
-Just moved one bufer_index back and it's now 0
-fifo name: /tmp/65414.140331856643840
-open
-OPENED!
-1621199265; 157; 1; 6541
+1621339033; 0; 1; 66529; 140065648731904; -1; RECVD 
+1621339033; 1; 6; 66529; 140065648731904; -1; RECVD 
+1621339033; 2; 7; 66529; 140065648731904; -1; RECVD 
+1621339033; 3; 3; 66529; 140065648731904; -1; RECVD 
+1621339033; 4; 3; 66529; 140065648731904; -1; RECVD 
+1621339033; 5; 6; 66529; 140065648731904; -1; RECVD 
+1621339033; 6; 1; 66529; 140065648731904; -1; RECVD 
+1621339033; 7; 1; 66529; 140065648731904; -1; RECVD 
+1621339033; 0; 1; 66529; 140065631946496; 10; TSKEX 
+1621339033; 0; 1; 66529; 140065640339200; 10; TSKDN 
+1621339033; 8; 7; 66529; 140065648731904; -1; RECVD 
+1621339033; 9; 3; 66529; 140065648731904; -1; RECVD 
+1621339033; 10; 3; 66529; 140065648731904; -1; RECVD 
+1621339033; 11; 8; 66529; 140065648731904; -1; RECVD 
+1621339033; 1; 6; 66529; 140065623553792; 20; TSKEX 
+1621339033; 1; 6; 66529; 140065640339200; 20; TSKDN 
+1621339033; 3; 3; 66529; 140065606768384; 30; TSKEX 
+1621339033; 3; 3; 66529; 140065640339200; 30; TSKDN 
+1621339033; 12; 1; 66529; 140065648731904; -1; RECVD 
+1621339033; 4; 3; 66529; 140065527297792; 40; TSKEX 
+1621339033; 4; 3; 66529; 140065640339200; 40; TSKDN 
+1621339033; 2; 7; 66529; 140065615161088; 50; TSKEX 
+1621339033; 2; 7; 66529; 140065640339200; 50; TSKDN 
+1621339033; 13; 8; 66529; 140065648731904; -1; RECVD 
+1621339033; 6; 1; 66529; 140065510512384; 60; TSKEX 
+1621339033; 6; 1; 66529; 140065640339200; 60; TSKDN 
+1621339033; 7; 1; 66529; 140065502119680; 70; TSKEX 
+1621339033; 7; 1; 66529; 140065640339200; 70; TSKDN 
+1621339033; 14; 4; 66529; 140065648731904; -1; RECVD 
+1621339033; 5; 6; 66529; 140065518905088; 80; TSKEX 
+1621339033; 5; 6; 66529; 140065640339200; 80; TSKDN 
+1621339033; 15; 9; 66529; 140065648731904; -1; RECVD 
+1621339033; 16; 1; 66529; 140065648731904; -1; RECVD 
+1621339033; 9; 3; 66529; 140065485334272; 90; TSKEX 
+1621339033; 9; 3; 66529; 140065640339200; 90; TSKDN 
+1621339033; 17; 6; 66529; 140065648731904; -1; RECVD 
+1621339033; 10; 3; 66529; 140065476941568; 100; TSKEX 
+1621339033; 10; 3; 66529; 140065640339200; 100; TSKDN 
+1621339033; 18; 6; 66529; 140065648731904; -1; RECVD 
+1621339033; 12; 1; 66529; 140065317578496; 110; TSKEX 
+1621339033; 12; 1; 66529; 140065640339200; 110; TSKDN 
+1621339033; 8; 7; 66529; 140065493726976; 120; TSKEX 
+1621339033; 8; 7; 66529; 140065640339200; 120; TSKDN 
+1621339033; 19; 8; 66529; 140065648731904; -1; RECVD 
+1621339033; 20; 1; 66529; 140065648731904; -1; RECVD 
+1621339034; 21; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 22; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 11; 8; 66529; 140065325971200; 130; TSKEX 
+1621339034; 11; 8; 66529; 140065640339200; 130; TSKDN 
+1621339034; 23; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 14; 4; 66529; 140065300793088; 140; TSKEX 
+1621339034; 14; 4; 66529; 140065640339200; 140; TSKDN 
+1621339034; 16; 1; 66529; 140065284007680; 150; TSKEX 
+1621339034; 16; 1; 66529; 140065640339200; 150; TSKDN 
+1621339034; 24; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 13; 8; 66529; 140065309185792; 160; TSKEX 
+1621339034; 13; 8; 66529; 140065640339200; 160; TSKDN 
+1621339034; 25; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 26; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 27; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 20; 1; 66529; 140065250436864; 170; TSKEX 
+1621339034; 20; 1; 66529; 140065640339200; 170; TSKDN 
+1621339034; 17; 6; 66529; 140065275614976; 180; TSKEX 
+1621339034; 17; 6; 66529; 140065640339200; 180; TSKDN 
+1621339034; 15; 9; 66529; 140065292400384; 190; TSKEX 
+1621339034; 15; 9; 66529; 140065640339200; 190; TSKDN 
+1621339034; 28; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 18; 6; 66529; 140065267222272; 200; TSKEX 
+1621339034; 18; 6; 66529; 140065640339200; 200; TSKDN 
+1621339034; 29; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 21; 4; 66529; 140065242044160; 210; TSKEX 
+1621339034; 21; 4; 66529; 140065640339200; 210; TSKDN 
+1621339034; 30; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 22; 3; 66529; 140065233651456; 220; TSKEX 
+1621339034; 22; 3; 66529; 140065640339200; 220; TSKDN 
+1621339034; 19; 8; 66529; 140065258829568; 230; TSKEX 
+1621339034; 19; 8; 66529; 140065640339200; 230; TSKDN 
+1621339034; 31; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 32; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 24; 3; 66529; 140065216866048; 240; TSKEX 
+1621339034; 24; 3; 66529; 140065640339200; 240; TSKDN 
+1621339034; 33; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 34; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 23; 7; 66529; 140065225258752; 250; TSKEX 
+1621339034; 23; 7; 66529; 140065640339200; 250; TSKDN 
+1621339034; 35; 6; 66529; 140065648731904; -1; RECVD 
+1621339034; 36; 1; 66529; 140065648731904; -1; RECVD 
+1621339034; 29; 2; 66529; 140065174902528; 260; TSKEX 
+1621339034; 29; 2; 66529; 140065640339200; 260; TSKDN 
+1621339034; 37; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 25; 9; 66529; 140065208473344; 270; TSKEX 
+1621339034; 25; 9; 66529; 140065640339200; 270; TSKDN 
+1621339034; 26; 8; 66529; 140065200080640; 280; TSKEX 
+1621339034; 26; 8; 66529; 140065640339200; 280; TSKDN 
+1621339034; 38; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 39; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 28; 7; 66529; 140065183295232; 290; TSKEX 
+1621339034; 28; 7; 66529; 140065640339200; 290; TSKDN 
+1621339034; 27; 9; 66529; 140065191687936; 300; TSKEX 
+1621339034; 27; 9; 66529; 140065640339200; 300; TSKDN 
+1621339034; 31; 3; 66529; 140065158117120; 310; TSKEX 
+1621339034; 31; 3; 66529; 140065640339200; 310; TSKDN 
+1621339034; 40; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 41; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 33; 2; 66529; 140065141331712; 320; TSKEX 
+1621339034; 33; 2; 66529; 140065640339200; 320; TSKDN 
+1621339034; 32; 4; 66529; 140065149724416; 330; TSKEX 
+1621339034; 32; 4; 66529; 140065640339200; 330; TSKDN 
+1621339034; 30; 8; 66529; 140065166509824; 340; TSKEX 
+1621339034; 30; 8; 66529; 140065640339200; 340; TSKDN 
+1621339034; 42; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 34; 3; 66529; 140065132939008; 350; TSKEX 
+1621339034; 34; 3; 66529; 140065640339200; 350; TSKDN 
+1621339034; 36; 1; 66529; 140065116153600; 360; TSKEX 
+1621339034; 36; 1; 66529; 140065640339200; 360; TSKDN 
+1621339034; 43; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 44; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 35; 6; 66529; 140065124546304; 370; TSKEX 
+1621339034; 35; 6; 66529; 140065640339200; 370; TSKDN 
+1621339034; 45; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 46; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 47; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 40; 2; 66529; 140065082582784; 380; TSKEX 
+1621339034; 40; 2; 66529; 140065640339200; 380; TSKDN 
+1621339034; 37; 8; 66529; 140065107760896; 390; TSKEX 
+1621339034; 37; 8; 66529; 140065640339200; 390; TSKDN 
+1621339034; 48; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 38; 7; 66529; 140065099368192; 400; TSKEX 
+1621339034; 38; 7; 66529; 140065640339200; 400; TSKDN 
+1621339034; 49; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 41; 4; 66529; 140065074190080; 410; TSKEX 
+1621339034; 41; 4; 66529; 140065640339200; 410; TSKDN 
+1621339034; 50; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 42; 3; 66529; 140065065797376; 420; TSKEX 
+1621339034; 42; 3; 66529; 140065640339200; 420; TSKDN 
+1621339034; 39; 8; 66529; 140065090975488; 430; TSKEX 
+1621339034; 39; 8; 66529; 140065640339200; 430; TSKDN 
+1621339034; 51; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 43; 4; 66529; 140065057404672; 440; TSKEX 
+1621339034; 43; 4; 66529; 140065640339200; 440; TSKDN 
+1621339034; 52; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 53; 6; 66529; 140065648731904; -1; RECVD 
+1621339034; 54; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 44; 7; 66529; 140065049011968; 450; TSKEX 
+1621339034; 44; 7; 66529; 140065640339200; 450; TSKDN 
+1621339034; 46; 4; 66529; 140065032226560; 460; TSKEX 
+1621339034; 46; 4; 66529; 140065640339200; 460; TSKDN 
+1621339034; 55; 1; 66529; 140065648731904; -1; RECVD 
+1621339034; 56; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 45; 8; 66529; 140065040619264; 470; TSKEX 
+1621339034; 45; 8; 66529; 140065640339200; 470; TSKDN 
+1621339034; 49; 3; 66529; 140065007048448; 480; TSKEX 
+1621339034; 49; 3; 66529; 140065640339200; 480; TSKDN 
+1621339034; 57; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 48; 5; 66529; 140065015441152; 490; TSKEX 
+1621339034; 48; 5; 66529; 140065640339200; 490; TSKDN 
+1621339034; 58; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 47; 9; 66529; 140065023833856; 500; TSKEX 
+1621339034; 47; 9; 66529; 140065640339200; 500; TSKDN 
+1621339034; 59; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 60; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 51; 5; 66529; 140064990263040; 510; TSKEX 
+1621339034; 51; 5; 66529; 140065640339200; 510; TSKDN 
+1621339034; 50; 7; 66529; 140064998655744; 520; TSKEX 
+1621339034; 50; 7; 66529; 140065640339200; 520; TSKDN 
+1621339034; 52; 4; 66529; 140064981870336; 530; TSKEX 
+1621339034; 52; 4; 66529; 140065640339200; 530; TSKDN 
+1621339034; 61; 6; 66529; 140065648731904; -1; RECVD 
+1621339034; 54; 2; 66529; 140064965084928; 540; TSKEX 
+1621339034; 54; 2; 66529; 140065640339200; 540; TSKDN 
+1621339034; 62; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 55; 1; 66529; 140064956692224; 550; TSKEX 
+1621339034; 55; 1; 66529; 140065640339200; 550; TSKDN 
+1621339034; 63; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 53; 6; 66529; 140064973477632; 560; TSKEX 
+1621339034; 53; 6; 66529; 140065640339200; 560; TSKDN 
+1621339034; 64; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 65; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 66; 1; 66529; 140065648731904; -1; RECVD 
+1621339034; 67; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 68; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 58; 5; 66529; 140064931514112; 570; TSKEX 
+1621339034; 58; 5; 66529; 140065640339200; 570; TSKDN 
+1621339034; 56; 9; 66529; 140064948299520; 580; TSKEX 
+1621339034; 56; 9; 66529; 140065640339200; 580; TSKDN 
+1621339034; 69; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 57; 8; 66529; 140064939906816; 590; TSKEX 
+1621339034; 57; 8; 66529; 140065640339200; 590; TSKDN 
+1621339034; 60; 5; 66529; 140064914728704; 600; TSKEX 
+1621339034; 60; 5; 66529; 140065640339200; 600; TSKDN 
+1621339034; 70; 6; 66529; 140065648731904; -1; RECVD 
+1621339034; 62; 3; 66529; 140064897943296; 610; TSKEX 
+1621339034; 62; 3; 66529; 140065640339200; 610; TSKDN 
+1621339034; 63; 2; 66529; 140064889550592; 620; TSKEX 
+1621339034; 63; 2; 66529; 140065640339200; 620; TSKDN 
+1621339034; 71; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 59; 8; 66529; 140064923121408; 630; TSKEX 
+1621339034; 59; 8; 66529; 140065640339200; 630; TSKDN 
+1621339034; 61; 6; 66529; 140064906336000; 640; TSKEX 
+1621339034; 61; 6; 66529; 140065640339200; 640; TSKDN 
+1621339034; 72; 8; 66529; 140065648731904; -1; RECVD 
+1621339034; 66; 1; 66529; 140064864372480; 650; TSKEX 
+1621339034; 66; 1; 66529; 140065640339200; 650; TSKDN 
+1621339034; 73; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 64; 4; 66529; 140064881157888; 660; TSKEX 
+1621339034; 64; 4; 66529; 140065640339200; 660; TSKDN 
+1621339034; 74; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 67; 2; 66529; 140064855979776; 670; TSKEX 
+1621339034; 67; 2; 66529; 140065640339200; 670; TSKDN 
+1621339034; 75; 3; 66529; 140065648731904; -1; RECVD 
+1621339034; 76; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 65; 7; 66529; 140064872765184; 680; TSKEX 
+1621339034; 65; 7; 66529; 140065640339200; 680; TSKDN 
+1621339034; 77; 1; 66529; 140065648731904; -1; RECVD 
+1621339034; 78; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 69; 3; 66529; 140064839194368; 690; TSKEX 
+1621339034; 69; 3; 66529; 140065640339200; 690; TSKDN 
+1621339034; 79; 7; 66529; 140065648731904; -1; RECVD 
+1621339034; 71; 2; 66529; 140064822408960; 700; TSKEX 
+1621339034; 71; 2; 66529; 140065640339200; 700; TSKDN 
+1621339034; 80; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 68; 9; 66529; 140064847587072; 710; TSKEX 
+1621339034; 68; 9; 66529; 140065640339200; 710; TSKDN 
+1621339034; 81; 6; 66529; 140065648731904; -1; RECVD 
+1621339034; 70; 6; 66529; 140064830801664; 720; TSKEX 
+1621339034; 70; 6; 66529; 140065640339200; 720; TSKDN 
+1621339034; 82; 5; 66529; 140065648731904; -1; RECVD 
+1621339034; 83; 2; 66529; 140065648731904; -1; RECVD 
+1621339034; 73; 4; 66529; 140064805623552; 730; TSKEX 
+1621339034; 73; 4; 66529; 140065640339200; 730; TSKDN 
+1621339034; 84; 9; 66529; 140065648731904; -1; RECVD 
+1621339034; 75; 3; 66529; 140064788838144; 740; TSKEX 
+1621339034; 75; 3; 66529; 140065640339200; 740; TSKDN 
+1621339034; 77; 1; 66529; 140064772052736; 750; TSKEX 
+1621339034; 77; 1; 66529; 140065640339200; 750; TSKDN 
+1621339034; 85; 4; 66529; 140065648731904; -1; RECVD 
+1621339034; 72; 8; 66529; 140064814016256; 760; TSKEX 
+1621339034; 72; 8; 66529; 140065640339200; 760; TSKDN 
+1621339034; 86; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 76; 5; 66529; 140064780445440; 770; TSKEX 
+1621339035; 76; 5; 66529; 140065640339200; 770; TSKDN 
+1621339035; 74; 9; 66529; 140064797230848; 780; TSKEX 
+1621339035; 74; 9; 66529; 140065640339200; 780; TSKDN 
+1621339035; 87; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 88; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 80; 2; 66529; 140064746874624; 790; TSKEX 
+1621339035; 80; 2; 66529; 140065640339200; 790; TSKDN 
+1621339035; 89; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 90; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 79; 7; 66529; 140064755267328; 800; TSKEX 
+1621339035; 79; 7; 66529; 140065640339200; 800; TSKDN 
+1621339035; 78; 9; 66529; 140064763660032; 810; TSKEX 
+1621339035; 78; 9; 66529; 140065640339200; 810; TSKDN 
+1621339035; 83; 2; 66529; 140064721696512; 820; TSKEX 
+1621339035; 83; 2; 66529; 140065640339200; 820; TSKDN 
+1621339035; 91; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 81; 6; 66529; 140064738481920; 830; TSKEX 
+1621339035; 81; 6; 66529; 140065640339200; 830; TSKDN 
+1621339035; 82; 5; 66529; 140064730089216; 840; TSKEX 
+1621339035; 82; 5; 66529; 140065640339200; 840; TSKDN 
+1621339035; 92; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 93; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 85; 4; 66529; 140064704911104; 850; TSKEX 
+1621339035; 85; 4; 66529; 140065640339200; 850; TSKDN 
+1621339035; 94; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 95; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 84; 9; 66529; 140064713303808; 860; TSKEX 
+1621339035; 84; 9; 66529; 140065640339200; 860; TSKDN 
+1621339035; 96; 8; 66529; 140065648731904; -1; RECVD 
+1621339035; 88; 3; 66529; 140064679732992; 870; TSKEX 
+1621339035; 88; 3; 66529; 140065640339200; 870; TSKDN 
+1621339035; 86; 7; 66529; 140064696518400; 880; TSKEX 
+1621339035; 86; 7; 66529; 140065640339200; 880; TSKDN 
+1621339035; 97; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 90; 2; 66529; 140064662947584; 890; TSKEX 
+1621339035; 90; 2; 66529; 140065640339200; 890; TSKDN 
+1621339035; 91; 1; 66529; 140064654554880; 900; TSKEX 
+1621339035; 91; 1; 66529; 140065640339200; 900; TSKDN 
+1621339035; 98; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 87; 9; 66529; 140064688125696; 910; TSKEX 
+1621339035; 87; 9; 66529; 140065640339200; 910; TSKDN 
+1621339035; 89; 6; 66529; 140064671340288; 920; TSKEX 
+1621339035; 89; 6; 66529; 140065640339200; 920; TSKDN 
+1621339035; 99; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 92; 3; 66529; 140064646162176; 930; TSKEX 
+1621339035; 92; 3; 66529; 140065640339200; 930; TSKDN 
+1621339035; 100; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 101; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 94; 2; 66529; 140064629376768; 940; TSKEX 
+1621339035; 94; 2; 66529; 140065640339200; 940; TSKDN 
+1621339035; 102; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 95; 2; 66529; 140064620984064; 950; TSKEX 
+1621339035; 95; 2; 66529; 140065640339200; 950; TSKDN 
+1621339035; 103; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 93; 7; 66529; 140064637769472; 960; TSKEX 
+1621339035; 93; 7; 66529; 140065640339200; 960; TSKDN 
+1621339035; 97; 1; 66529; 140064604198656; 970; TSKEX 
+1621339035; 97; 1; 66529; 140065640339200; 970; TSKDN 
+1621339035; 104; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 105; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 106; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 98; 3; 66529; 140064595805952; 980; TSKEX 
+1621339035; 98; 3; 66529; 140065640339200; 980; TSKDN 
+1621339035; 107; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 96; 8; 66529; 140064612591360; 990; TSKEX 
+1621339035; 96; 8; 66529; 140065640339200; 990; TSKDN 
+1621339035; 99; 3; 66529; 140064587413248; 1000; TSKEX 
+1621339035; 99; 3; 66529; 140065640339200; 1000; TSKDN 
+1621339035; 108; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 109; 8; 66529; 140065648731904; -1; RECVD 
+1621339035; 110; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 100; 5; 66529; 140064579020544; 1010; TSKEX 
+1621339035; 100; 5; 66529; 140065640339200; 1010; TSKDN 
+1621339035; 111; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 112; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 101; 7; 66529; 140064570627840; 1020; TSKEX 
+1621339035; 101; 7; 66529; 140065640339200; 1020; TSKDN 
+1621339035; 113; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 103; 5; 66529; 140064553842432; 1030; TSKEX 
+1621339035; 103; 5; 66529; 140065640339200; 1030; TSKDN 
+1621339035; 104; 4; 66529; 140064545449728; 1040; TSKEX 
+1621339035; 104; 4; 66529; 140065640339200; 1040; TSKDN 
+1621339035; 114; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 102; 9; 66529; 140064562235136; 1050; TSKEX 
+1621339035; 102; 9; 66529; 140065640339200; 1050; TSKDN 
+1621339035; 115; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 105; 6; 66529; 140064537057024; 1060; TSKEX 
+1621339035; 105; 6; 66529; 140065640339200; 1060; TSKDN 
+1621339035; 116; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 106; 5; 66529; 140064528664320; 1070; TSKEX 
+1621339035; 106; 5; 66529; 140065640339200; 1070; TSKDN 
+1621339035; 117; 8; 66529; 140065648731904; -1; RECVD 
+1621339035; 118; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 107; 7; 66529; 140064520271616; 1080; TSKEX 
+1621339035; 107; 7; 66529; 140065640339200; 1080; TSKDN 
+1621339035; 119; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 108; 7; 66529; 140064511878912; 1090; TSKEX 
+1621339035; 108; 7; 66529; 140065640339200; 1090; TSKDN 
+1621339035; 120; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 110; 5; 66529; 140064495093504; 1100; TSKEX 
+1621339035; 110; 5; 66529; 140065640339200; 1100; TSKDN 
+1621339035; 121; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 109; 8; 66529; 140064503486208; 1110; TSKEX 
+1621339035; 109; 8; 66529; 140065640339200; 1110; TSKDN 
+1621339035; 112; 4; 66529; 140064478308096; 1120; TSKEX 
+1621339035; 112; 4; 66529; 140065640339200; 1120; TSKDN 
+1621339035; 122; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 113; 4; 66529; 140064469915392; 1130; TSKEX 
+1621339035; 113; 4; 66529; 140065640339200; 1130; TSKDN 
+1621339035; 111; 7; 66529; 140064486700800; 1140; TSKEX 
+1621339035; 111; 7; 66529; 140065640339200; 1140; TSKDN 
+1621339035; 123; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 116; 1; 66529; 140064444737280; 1150; TSKEX 
+1621339035; 116; 1; 66529; 140065640339200; 1150; TSKDN 
+1621339035; 124; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 114; 6; 66529; 140064461522688; 1160; TSKEX 
+1621339035; 114; 6; 66529; 140065640339200; 1160; TSKDN 
+1621339035; 125; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 115; 6; 66529; 140064453129984; 1170; TSKEX 
+1621339035; 115; 6; 66529; 140065640339200; 1170; TSKDN 
+1621339035; 126; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 127; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 118; 5; 66529; 140064427951872; 1180; TSKEX 
+1621339035; 118; 5; 66529; 140065640339200; 1180; TSKDN 
+1621339035; 128; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 119; 4; 66529; 140064419559168; 1190; TSKEX 
+1621339035; 119; 4; 66529; 140065640339200; 1190; TSKDN 
+1621339035; 117; 8; 66529; 140064436344576; 1200; TSKEX 
+1621339035; 117; 8; 66529; 140065640339200; 1200; TSKDN 
+1621339035; 129; 8; 66529; 140065648731904; -1; RECVD 
+1621339035; 130; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 123; 1; 66529; 140064385988352; 1210; TSKEX 
+1621339035; 123; 1; 66529; 140065640339200; 1210; TSKDN 
+1621339035; 131; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 122; 5; 66529; 140064394381056; 1220; TSKEX 
+1621339035; 122; 5; 66529; 140065640339200; 1220; TSKDN 
+1621339035; 132; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 120; 9; 66529; 140064411166464; 1230; TSKEX 
+1621339035; 120; 9; 66529; 140065640339200; 1230; TSKDN 
+1621339035; 133; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 121; 9; 66529; 140064402773760; 1240; TSKEX 
+1621339035; 121; 9; 66529; 140065640339200; 1240; TSKDN 
+1621339035; 134; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 124; 5; 66529; 140064377595648; 1250; TSKEX 
+1621339035; 124; 5; 66529; 140065640339200; 1250; TSKDN 
+1621339035; 125; 4; 66529; 140064369202944; 1260; TSKEX 
+1621339035; 125; 4; 66529; 140065640339200; 1260; TSKDN 
+1621339035; 126; 3; 66529; 140064360810240; 1270; TSKEX 
+1621339035; 126; 3; 66529; 140065640339200; 1270; TSKDN 
+1621339035; 135; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 136; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 127; 3; 66529; 140064352417536; 1280; TSKEX 
+1621339035; 127; 3; 66529; 140065640339200; 1280; TSKDN 
+1621339035; 137; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 128; 3; 66529; 140064344024832; 1290; TSKEX 
+1621339035; 128; 3; 66529; 140065640339200; 1290; TSKDN 
+1621339035; 138; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 139; 5; 66529; 140065648731904; -1; RECVD 
+1621339035; 140; 4; 66529; 140065648731904; -1; RECVD 
+1621339035; 141; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 133; 2; 66529; 140064302061312; 1300; TSKEX 
+1621339035; 133; 2; 66529; 140065640339200; 1300; TSKDN 
+1621339035; 131; 5; 66529; 140064318846720; 1310; TSKEX 
+1621339035; 131; 5; 66529; 140065640339200; 1310; TSKDN 
+1621339035; 129; 8; 66529; 140064335632128; 1320; TSKEX 
+1621339035; 129; 8; 66529; 140065640339200; 1320; TSKDN 
+1621339035; 142; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 130; 7; 66529; 140064327239424; 1330; TSKEX 
+1621339035; 130; 7; 66529; 140065640339200; 1330; TSKDN 
+1621339035; 132; 5; 66529; 140064310454016; 1340; TSKEX 
+1621339035; 132; 5; 66529; 140065640339200; 1340; TSKDN 
+1621339035; 143; 9; 66529; 140065648731904; -1; RECVD 
+1621339035; 144; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 136; 2; 66529; 140064276883200; 1350; TSKEX 
+1621339035; 136; 2; 66529; 140065640339200; 1350; TSKDN 
+1621339035; 134; 6; 66529; 140064293668608; 1360; TSKEX 
+1621339035; 134; 6; 66529; 140065640339200; 1360; TSKDN 
+1621339035; 145; 6; 66529; 140065648731904; -1; RECVD 
+1621339035; 135; 5; 66529; 140064285275904; 1370; TSKEX 
+1621339035; 135; 5; 66529; 140065640339200; 1370; TSKDN 
+1621339035; 146; 2; 66529; 140065648731904; -1; RECVD 
+1621339035; 147; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 148; 1; 66529; 140065648731904; -1; RECVD 
+1621339035; 137; 7; 66529; 140064268490496; 1380; TSKEX 
+1621339035; 137; 7; 66529; 140065640339200; 1380; TSKDN 
+1621339035; 140; 4; 66529; 140064243312384; 1390; TSKEX 
+1621339035; 140; 4; 66529; 140065640339200; 1390; TSKDN 
+1621339035; 139; 5; 66529; 140064251705088; 1400; TSKEX 
+1621339035; 139; 5; 66529; 140065640339200; 1400; TSKDN 
+1621339035; 138; 7; 66529; 140064260097792; 1410; TSKEX 
+1621339035; 138; 7; 66529; 140065640339200; 1410; TSKDN 
+1621339035; 149; 3; 66529; 140065648731904; -1; RECVD 
+1621339035; 150; 7; 66529; 140065648731904; -1; RECVD 
+1621339035; 144; 1; 66529; 140064209741568; 1420; TSKEX 
+1621339035; 144; 1; 66529; 140065640339200; 1420; TSKDN 
+1621339035; 151; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 152; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 142; 7; 66529; 140064226526976; 1430; TSKEX 
+1621339036; 142; 7; 66529; 140065640339200; 1430; TSKDN 
+1621339036; 153; 3; 66529; 140065648731904; -1; RECVD 
+1621339036; 141; 9; 66529; 140064234919680; 1440; TSKEX 
+1621339036; 141; 9; 66529; 140065640339200; 1440; TSKDN 
+1621339036; 146; 2; 66529; 140064192956160; 1450; TSKEX 
+1621339036; 146; 2; 66529; 140065640339200; 1450; TSKDN 
+1621339036; 154; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 143; 9; 66529; 140064218134272; 1460; TSKEX 
+1621339036; 143; 9; 66529; 140065640339200; 1460; TSKDN 
+1621339036; 148; 1; 66529; 140064176170752; 1470; TSKEX 
+1621339036; 148; 1; 66529; 140065640339200; 1470; TSKDN 
+1621339036; 145; 6; 66529; 140064201348864; 1480; TSKEX 
+1621339036; 145; 6; 66529; 140065640339200; 1480; TSKDN 
+1621339036; 155; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 147; 3; 66529; 140064184563456; 1490; TSKEX 
+1621339036; 147; 3; 66529; 140065640339200; 1490; TSKDN 
+1621339036; 156; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 157; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 149; 3; 66529; 140064167778048; 1500; TSKEX 
+1621339036; 149; 3; 66529; 140065640339200; 1500; TSKDN 
+1621339036; 158; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 159; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 160; 3; 66529; 140065648731904; -1; RECVD 
+1621339036; 150; 7; 66529; 140064159385344; 1510; TSKEX 
+1621339036; 150; 7; 66529; 140065640339200; 1510; TSKDN 
+1621339036; 154; 1; 66529; 140064125814528; 1520; TSKEX 
+1621339036; 153; 3; 66529; 140064134207232; 1530; TSKEX 
+1621339036; 154; 1; 66529; 140065640339200; 1520; TSKDN 
+1621339036; 153; 3; 66529; 140065640339200; 1530; TSKDN 
+1621339036; 161; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 162; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 151; 8; 66529; 140064150992640; 1540; TSKEX 
+1621339036; 151; 8; 66529; 140065640339200; 1540; TSKDN 
+1621339036; 155; 2; 66529; 140064117421824; 1550; TSKEX 
+1621339036; 155; 2; 66529; 140065640339200; 1550; TSKDN 
+1621339036; 152; 7; 66529; 140064142599936; 1560; TSKEX 
+1621339036; 152; 7; 66529; 140065640339200; 1560; TSKDN 
+1621339036; 163; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 164; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 165; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 166; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 156; 6; 66529; 140064109029120; 1570; TSKEX 
+1621339036; 156; 6; 66529; 140065640339200; 1570; TSKDN 
+1621339036; 167; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 168; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 157; 7; 66529; 140064100636416; 1580; TSKEX 
+1621339036; 157; 7; 66529; 140065640339200; 1580; TSKDN 
+1621339036; 160; 3; 66529; 140064075458304; 1590; TSKEX 
+1621339036; 160; 3; 66529; 140065640339200; 1590; TSKDN 
+1621339036; 158; 7; 66529; 140064092243712; 1600; TSKEX 
+1621339036; 158; 7; 66529; 140065640339200; 1600; TSKDN 
+1621339036; 169; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 162; 1; 66529; 140064058672896; 1610; TSKEX 
+1621339036; 162; 1; 66529; 140065640339200; 1610; TSKDN 
+1621339036; 161; 4; 66529; 140064067065600; 1620; TSKEX 
+1621339036; 161; 4; 66529; 140065640339200; 1620; TSKDN 
+1621339036; 170; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 159; 7; 66529; 140064083851008; 1630; TSKEX 
+1621339036; 159; 7; 66529; 140065640339200; 1630; TSKDN 
+1621339036; 171; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 172; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 163; 5; 66529; 140064050280192; 1640; TSKEX 
+1621339036; 163; 5; 66529; 140065640339200; 1640; TSKDN 
+1621339036; 166; 1; 66529; 140064025102080; 1650; TSKEX 
+1621339036; 166; 1; 66529; 140065640339200; 1650; TSKDN 
+1621339036; 173; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 165; 4; 66529; 140064033494784; 1660; TSKEX 
+1621339036; 165; 4; 66529; 140065640339200; 1660; TSKDN 
+1621339036; 174; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 164; 8; 66529; 140064041887488; 1670; TSKEX 
+1621339036; 164; 8; 66529; 140065640339200; 1670; TSKDN 
+1621339036; 175; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 176; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 177; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 168; 6; 66529; 140064008316672; 1680; TSKEX 
+1621339036; 168; 6; 66529; 140065640339200; 1680; TSKDN 
+1621339036; 167; 8; 66529; 140064016709376; 1690; TSKEX 
+1621339036; 167; 8; 66529; 140065640339200; 1690; TSKDN 
+1621339036; 178; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 179; 3; 66529; 140065648731904; -1; RECVD 
+1621339036; 170; 6; 66529; 140063991531264; 1700; TSKEX 
+1621339036; 170; 6; 66529; 140065640339200; 1700; TSKDN 
+1621339036; 169; 8; 66529; 140063999923968; 1710; TSKEX 
+1621339036; 169; 8; 66529; 140065640339200; 1710; TSKDN 
+1621339036; 180; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 181; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 182; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 172; 7; 66529; 140063974745856; 1720; TSKEX 
+1621339036; 172; 7; 66529; 140065640339200; 1720; TSKDN 
+1621339036; 171; 9; 66529; 140063983138560; 1730; TSKEX 
+1621339036; 171; 9; 66529; 140065640339200; 1730; TSKDN 
+1621339036; 183; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 184; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 177; 2; 66529; 140063932782336; 1740; TSKEX 
+1621339036; 177; 2; 66529; 140065640339200; 1740; TSKDN 
+1621339036; 173; 9; 66529; 140063966353152; 1750; TSKEX 
+1621339036; 173; 9; 66529; 140065640339200; 1750; TSKDN 
+1621339036; 185; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 176; 5; 66529; 140063941175040; 1760; TSKEX 
+1621339036; 176; 5; 66529; 140065640339200; 1760; TSKDN 
+1621339036; 186; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 174; 9; 66529; 140063957960448; 1770; TSKEX 
+1621339036; 174; 9; 66529; 140065640339200; 1770; TSKDN 
+1621339036; 175; 8; 66529; 140063949567744; 1780; TSKEX 
+1621339036; 175; 8; 66529; 140065640339200; 1780; TSKDN 
+1621339036; 187; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 178; 4; 66529; 140063924389632; 1790; TSKEX 
+1621339036; 178; 4; 66529; 140065640339200; 1790; TSKDN 
+1621339036; 179; 3; 66529; 140063915996928; 1800; TSKEX 
+1621339036; 179; 3; 66529; 140065640339200; 1800; TSKDN 
+1621339036; 188; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 180; 2; 66529; 140063907604224; 1810; TSKEX 
+1621339036; 180; 2; 66529; 140065640339200; 1810; TSKDN 
+1621339036; 189; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 181; 2; 66529; 140063899211520; 1820; TSKEX 
+1621339036; 181; 2; 66529; 140065640339200; 1820; TSKDN 
+1621339036; 190; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 191; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 192; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 193; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 182; 7; 66529; 140063890818816; 1830; TSKEX 
+1621339036; 182; 7; 66529; 140065640339200; 1830; TSKDN 
+1621339036; 194; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 183; 6; 66529; 140063882426112; 1840; TSKEX 
+1621339036; 183; 6; 66529; 140065640339200; 1840; TSKDN 
+1621339036; 195; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 185; 5; 66529; 140063865640704; 1850; TSKEX 
+1621339036; 185; 5; 66529; 140065640339200; 1850; TSKDN 
+1621339036; 184; 7; 66529; 140063874033408; 1860; TSKEX 
+1621339036; 184; 7; 66529; 140065640339200; 1860; TSKDN 
+1621339036; 196; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 197; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 198; 1; 66529; 140065648731904; -1; RECVD 
+1621339036; 187; 8; 66529; 140063848855296; 1870; TSKEX 
+1621339036; 187; 8; 66529; 140065640339200; 1870; TSKDN 
+1621339036; 186; 9; 66529; 140063857248000; 1880; TSKEX 
+1621339036; 186; 9; 66529; 140065640339200; 1880; TSKDN 
+1621339036; 199; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 188; 7; 66529; 140063840462592; 1890; TSKEX 
+1621339036; 188; 7; 66529; 140065640339200; 1890; TSKDN 
+1621339036; 189; 6; 66529; 140063832069888; 1900; TSKEX 
+1621339036; 189; 6; 66529; 140065640339200; 1900; TSKDN 
+1621339036; 200; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 192; 2; 66529; 140063806891776; 1910; TSKEX 
+1621339036; 192; 2; 66529; 140065640339200; 1910; TSKDN 
+1621339036; 191; 4; 66529; 140063815284480; 1920; TSKEX 
+1621339036; 191; 4; 66529; 140065640339200; 1920; TSKDN 
+1621339036; 201; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 194; 1; 66529; 140063790106368; 1930; TSKEX 
+1621339036; 194; 1; 66529; 140065640339200; 1930; TSKDN 
+1621339036; 202; 5; 66529; 140065648731904; -1; RECVD 
+1621339036; 190; 9; 66529; 140063823677184; 1940; TSKEX 
+1621339036; 190; 9; 66529; 140065640339200; 1940; TSKDN 
+1621339036; 203; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 204; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 197; 1; 66529; 140063764928256; 1950; TSKEX 
+1621339036; 197; 1; 66529; 140065640339200; 1950; TSKDN 
+1621339036; 193; 8; 66529; 140063798499072; 1960; TSKEX 
+1621339036; 193; 8; 66529; 140065640339200; 1960; TSKDN 
+1621339036; 205; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 196; 4; 66529; 140063773320960; 1970; TSKEX 
+1621339036; 196; 4; 66529; 140065640339200; 1970; TSKDN 
+1621339036; 195; 5; 66529; 140063781713664; 1980; TSKEX 
+1621339036; 195; 5; 66529; 140065640339200; 1980; TSKDN 
+1621339036; 198; 1; 66529; 140063756535552; 1990; TSKEX 
+1621339036; 198; 1; 66529; 140065640339200; 1990; TSKDN 
+1621339036; 206; 4; 66529; 140065648731904; -1; RECVD 
+1621339036; 207; 7; 66529; 140065648731904; -1; RECVD 
+1621339036; 208; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 209; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 210; 3; 66529; 140065648731904; -1; RECVD 
+1621339036; 200; 6; 66529; 140063739750144; 2000; TSKEX 
+1621339036; 200; 6; 66529; 140065640339200; 2000; TSKDN 
+1621339036; 199; 8; 66529; 140063748142848; 2010; TSKEX 
+1621339036; 199; 8; 66529; 140065640339200; 2010; TSKDN 
+1621339036; 211; 9; 66529; 140065648731904; -1; RECVD 
+1621339036; 201; 5; 66529; 140063731357440; 2020; TSKEX 
+1621339036; 201; 5; 66529; 140065640339200; 2020; TSKDN 
+1621339036; 202; 5; 66529; 140063722964736; 2030; TSKEX 
+1621339036; 202; 5; 66529; 140065640339200; 2030; TSKDN 
+1621339036; 212; 6; 66529; 140065648731904; -1; RECVD 
+1621339036; 213; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 214; 2; 66529; 140065648731904; -1; RECVD 
+1621339036; 204; 6; 66529; 140063706179328; 2040; TSKEX 
+1621339036; 204; 6; 66529; 140065640339200; 2040; TSKDN 
+1621339036; 203; 8; 66529; 140063714572032; 2050; TSKEX 
+1621339036; 203; 8; 66529; 140065640339200; 2050; TSKDN 
+1621339036; 215; 8; 66529; 140065648731904; -1; RECVD 
+1621339036; 206; 4; 66529; 140063689393920; 2060; TSKEX 
+1621339036; 206; 4; 66529; 140065640339200; 2060; TSKDN 
+1621339037; 205; 6; 66529; 140063697786624; 2070; TSKEX 
+1621339037; 205; 6; 66529; 140065640339200; 2070; TSKDN 
+1621339037; 208; 2; 66529; 140063672608512; 2080; TSKEX 
+1621339037; 208; 2; 66529; 140065640339200; 2080; TSKDN 
+1621339037; 216; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 217; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 218; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 207; 7; 66529; 140063681001216; 2090; TSKEX 
+1621339037; 207; 7; 66529; 140065640339200; 2090; TSKDN 
+1621339037; 210; 3; 66529; 140063655823104; 2100; TSKEX 
+1621339037; 210; 3; 66529; 140065640339200; 2100; TSKDN 
+1621339037; 219; 8; 66529; 140065648731904; -1; RECVD 
+1621339037; 220; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 209; 8; 66529; 140063664215808; 2110; TSKEX 
+1621339037; 209; 8; 66529; 140065640339200; 2110; TSKDN 
+1621339037; 221; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 213; 2; 66529; 140063630644992; 2120; TSKEX 
+1621339037; 213; 2; 66529; 140065640339200; 2120; TSKDN 
+1621339037; 214; 2; 66529; 140063622252288; 2130; TSKEX 
+1621339037; 214; 2; 66529; 140065640339200; 2130; TSKDN 
+1621339037; 222; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 212; 6; 66529; 140063639037696; 2140; TSKEX 
+1621339037; 212; 6; 66529; 140065640339200; 2140; TSKDN 
+1621339037; 211; 9; 66529; 140063647430400; 2150; TSKEX 
+1621339037; 211; 9; 66529; 140065640339200; 2150; TSKDN 
+1621339037; 223; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 224; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 216; 4; 66529; 140063605466880; 2160; TSKEX 
+1621339037; 216; 4; 66529; 140065640339200; 2160; TSKDN 
+1621339037; 225; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 218; 2; 66529; 140063588681472; 2170; TSKEX 
+1621339037; 218; 2; 66529; 140065640339200; 2170; TSKDN 
+1621339037; 226; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 215; 8; 66529; 140063613859584; 2180; TSKEX 
+1621339037; 215; 8; 66529; 140065640339200; 2180; TSKDN 
+1621339037; 227; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 228; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 229; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 217; 9; 66529; 140063597074176; 2190; TSKEX 
+1621339037; 217; 9; 66529; 140065640339200; 2190; TSKDN 
+1621339037; 230; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 219; 8; 66529; 140063580288768; 2200; TSKEX 
+1621339037; 219; 8; 66529; 140065640339200; 2200; TSKDN 
+1621339037; 231; 3; 66529; 140065648731904; -1; RECVD 
+1621339037; 220; 7; 66529; 140063571896064; 2210; TSKEX 
+1621339037; 220; 7; 66529; 140065640339200; 2210; TSKDN 
+1621339037; 223; 2; 66529; 140063546717952; 2220; TSKEX 
+1621339037; 223; 2; 66529; 140065640339200; 2220; TSKDN 
+1621339037; 232; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 233; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 221; 9; 66529; 140063563503360; 2230; TSKEX 
+1621339037; 221; 9; 66529; 140065640339200; 2230; TSKDN 
+1621339037; 234; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 226; 1; 66529; 140063521539840; 2240; TSKEX 
+1621339037; 226; 1; 66529; 140065640339200; 2240; TSKDN 
+1621339037; 222; 9; 66529; 140063555110656; 2250; TSKEX 
+1621339037; 222; 9; 66529; 140065640339200; 2250; TSKDN 
+1621339037; 235; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 236; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 224; 9; 66529; 140063538325248; 2260; TSKEX 
+1621339037; 224; 9; 66529; 140065640339200; 2260; TSKDN 
+1621339037; 227; 4; 66529; 140063513147136; 2270; TSKEX 
+1621339037; 227; 4; 66529; 140065640339200; 2270; TSKDN 
+1621339037; 237; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 238; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 225; 9; 66529; 140063529932544; 2280; TSKEX 
+1621339037; 225; 9; 66529; 140065640339200; 2280; TSKDN 
+1621339037; 239; 5; 66529; 140065648731904; -1; RECVD 
+1621339037; 228; 6; 66529; 140063504754432; 2290; TSKEX 
+1621339037; 228; 6; 66529; 140065640339200; 2290; TSKDN 
+1621339037; 230; 4; 66529; 140063487969024; 2300; TSKEX 
+1621339037; 230; 4; 66529; 140065640339200; 2300; TSKDN 
+1621339037; 231; 3; 66529; 140063479576320; 2310; TSKEX 
+1621339037; 231; 3; 66529; 140065640339200; 2310; TSKDN 
+1621339037; 240; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 233; 1; 66529; 140063462790912; 2320; TSKEX 
+1621339037; 233; 1; 66529; 140065640339200; 2320; TSKDN 
+1621339037; 241; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 229; 7; 66529; 140063496361728; 2330; TSKEX 
+1621339037; 229; 7; 66529; 140065640339200; 2330; TSKDN 
+1621339037; 232; 4; 66529; 140063471183616; 2340; TSKEX 
+1621339037; 232; 4; 66529; 140065640339200; 2340; TSKDN 
+1621339037; 242; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 243; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 244; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 234; 6; 66529; 140063454398208; 2350; TSKEX 
+1621339037; 234; 6; 66529; 140065640339200; 2350; TSKDN 
+1621339037; 245; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 238; 1; 66529; 140063420827392; 2360; TSKEX 
+1621339037; 238; 1; 66529; 140065640339200; 2360; TSKDN 
+1621339037; 246; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 247; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 236; 7; 66529; 140063437612800; 2370; TSKEX 
+1621339037; 236; 7; 66529; 140065640339200; 2370; TSKDN 
+1621339037; 235; 9; 66529; 140063446005504; 2380; TSKEX 
+1621339037; 235; 9; 66529; 140065640339200; 2380; TSKDN 
+1621339037; 248; 3; 66529; 140065648731904; -1; RECVD 
+1621339037; 239; 5; 66529; 140063412434688; 2390; TSKEX 
+1621339037; 239; 5; 66529; 140065640339200; 2390; TSKDN 
+1621339037; 249; 5; 66529; 140065648731904; -1; RECVD 
+1621339037; 242; 1; 66529; 140063387256576; 2400; TSKEX 
+1621339037; 242; 1; 66529; 140065640339200; 2400; TSKDN 
+1621339037; 237; 9; 66529; 140063429220096; 2410; TSKEX 
+1621339037; 237; 9; 66529; 140065640339200; 2410; TSKDN 
+1621339037; 250; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 240; 7; 66529; 140063404041984; 2420; TSKEX 
+1621339037; 240; 7; 66529; 140065640339200; 2420; TSKDN 
+1621339037; 251; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 244; 1; 66529; 140063370471168; 2430; TSKEX 
+1621339037; 244; 1; 66529; 140065640339200; 2430; TSKDN 
+1621339037; 241; 6; 66529; 140063395649280; 2440; TSKEX 
+1621339037; 241; 6; 66529; 140065640339200; 2440; TSKDN 
+1621339037; 252; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 253; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 245; 2; 66529; 140063362078464; 2450; TSKEX 
+1621339037; 245; 2; 66529; 140065640339200; 2450; TSKDN 
+1621339037; 254; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 243; 9; 66529; 140063378863872; 2460; TSKEX 
+1621339037; 243; 9; 66529; 140065640339200; 2460; TSKDN 
+1621339037; 255; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 256; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 248; 3; 66529; 140063336900352; 2470; TSKEX 
+1621339037; 248; 3; 66529; 140065640339200; 2470; TSKDN 
+1621339037; 257; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 247; 6; 66529; 140063345293056; 2480; TSKEX 
+1621339037; 247; 6; 66529; 140065640339200; 2480; TSKDN 
+1621339037; 258; 3; 66529; 140065648731904; -1; RECVD 
+1621339037; 250; 2; 66529; 140063320114944; 2490; TSKEX 
+1621339037; 250; 2; 66529; 140065640339200; 2490; TSKDN 
+1621339037; 249; 5; 66529; 140063328507648; 2500; TSKEX 
+1621339037; 249; 5; 66529; 140065640339200; 2500; TSKDN 
+1621339037; 246; 9; 66529; 140063353685760; 2510; TSKEX 
+1621339037; 246; 9; 66529; 140065640339200; 2510; TSKDN 
+1621339037; 259; 1; 66529; 140065648731904; -1; RECVD 
+1621339037; 260; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 253; 2; 66529; 140063294936832; 2520; TSKEX 
+1621339037; 253; 2; 66529; 140065640339200; 2520; TSKDN 
+1621339037; 261; 5; 66529; 140065648731904; -1; RECVD 
+1621339037; 254; 1; 66529; 140063286544128; 2530; TSKEX 
+1621339037; 254; 1; 66529; 140065640339200; 2530; TSKDN 
+1621339037; 251; 6; 66529; 140063311722240; 2540; TSKEX 
+1621339037; 251; 6; 66529; 140065640339200; 2540; TSKDN 
+1621339037; 262; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 252; 6; 66529; 140063303329536; 2550; TSKEX 
+1621339037; 252; 6; 66529; 140065640339200; 2550; TSKDN 
+1621339037; 263; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 255; 2; 66529; 140063278151424; 2560; TSKEX 
+1621339037; 255; 2; 66529; 140065640339200; 2560; TSKDN 
+1621339037; 264; 3; 66529; 140065648731904; -1; RECVD 
+1621339037; 265; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 266; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 259; 1; 66529; 140063244580608; 2570; TSKEX 
+1621339037; 259; 1; 66529; 140065640339200; 2570; TSKDN 
+1621339037; 257; 4; 66529; 140063261366016; 2580; TSKEX 
+1621339037; 257; 4; 66529; 140065640339200; 2580; TSKDN 
+1621339037; 258; 3; 66529; 140063252973312; 2590; TSKEX 
+1621339037; 258; 3; 66529; 140065640339200; 2590; TSKDN 
+1621339037; 267; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 256; 6; 66529; 140063269758720; 2600; TSKEX 
+1621339037; 256; 6; 66529; 140065640339200; 2600; TSKDN 
+1621339037; 268; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 269; 2; 66529; 140065648731904; -1; RECVD 
+1621339037; 262; 2; 66529; 140063219402496; 2610; TSKEX 
+1621339037; 262; 2; 66529; 140065640339200; 2610; TSKDN 
+1621339037; 270; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 271; 3; 66529; 140065648731904; -1; RECVD 
+1621339037; 261; 5; 66529; 140063227795200; 2620; TSKEX 
+1621339037; 261; 5; 66529; 140065640339200; 2620; TSKDN 
+1621339037; 260; 7; 66529; 140063236187904; 2630; TSKEX 
+1621339037; 260; 7; 66529; 140065640339200; 2630; TSKDN 
+1621339037; 272; 8; 66529; 140065648731904; -1; RECVD 
+1621339037; 264; 3; 66529; 140063202617088; 2640; TSKEX 
+1621339037; 264; 3; 66529; 140065640339200; 2640; TSKDN 
+1621339037; 273; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 274; 6; 66529; 140065648731904; -1; RECVD 
+1621339037; 266; 2; 66529; 140063185831680; 2650; TSKEX 
+1621339037; 266; 2; 66529; 140065640339200; 2650; TSKDN 
+1621339037; 263; 7; 66529; 140063211009792; 2660; TSKEX 
+1621339037; 263; 7; 66529; 140065640339200; 2660; TSKDN 
+1621339037; 275; 8; 66529; 140065648731904; -1; RECVD 
+1621339037; 276; 4; 66529; 140065648731904; -1; RECVD 
+1621339037; 277; 8; 66529; 140065648731904; -1; RECVD 
+1621339037; 269; 2; 66529; 140063160653568; 2670; TSKEX 
+1621339037; 269; 2; 66529; 140065640339200; 2670; TSKDN 
+1621339037; 265; 9; 66529; 140063194224384; 2680; TSKEX 
+1621339037; 265; 9; 66529; 140065640339200; 2680; TSKDN 
+1621339037; 278; 9; 66529; 140065648731904; -1; RECVD 
+1621339037; 267; 7; 66529; 140063177438976; 2690; TSKEX 
+1621339037; 267; 7; 66529; 140065640339200; 2690; TSKDN 
+1621339037; 268; 6; 66529; 140063169046272; 2700; TSKEX 
+1621339037; 268; 6; 66529; 140065640339200; 2700; TSKDN 
+1621339037; 279; 7; 66529; 140065648731904; -1; RECVD 
+1621339037; 271; 3; 66529; 140063143868160; 2710; TSKEX 
+1621339037; 271; 3; 66529; 140065640339200; 2710; TSKDN 
+1621339037; 280; 5; 66529; 140065648731904; -1; RECVD 
+1621339037; 281; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 282; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 270; 9; 66529; 140063152260864; 2720; TSKEX 
+1621339038; 270; 9; 66529; 140065640339200; 2720; TSKDN 
+1621339038; 283; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 272; 8; 66529; 140063135475456; 2730; TSKEX 
+1621339038; 272; 8; 66529; 140065640339200; 2730; TSKDN 
+1621339038; 284; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 274; 6; 66529; 140063118690048; 2740; TSKEX 
+1621339038; 274; 6; 66529; 140065640339200; 2740; TSKDN 
+1621339038; 273; 9; 66529; 140063127082752; 2750; TSKEX 
+1621339038; 273; 9; 66529; 140065640339200; 2750; TSKDN 
+1621339038; 276; 4; 66529; 140063101904640; 2760; TSKEX 
+1621339038; 276; 4; 66529; 140065640339200; 2760; TSKDN 
+1621339038; 285; 1; 66529; 140065648731904; -1; RECVD 
+1621339038; 286; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 275; 8; 66529; 140063110297344; 2770; TSKEX 
+1621339038; 275; 8; 66529; 140065640339200; 2770; TSKDN 
+1621339038; 287; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 288; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 281; 2; 66529; 140063059941120; 2780; TSKEX 
+1621339038; 281; 2; 66529; 140065640339200; 2780; TSKDN 
+1621339038; 289; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 277; 8; 66529; 140063093511936; 2790; TSKEX 
+1621339038; 277; 8; 66529; 140065640339200; 2790; TSKDN 
+1621339038; 290; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 280; 5; 66529; 140063068333824; 2800; TSKEX 
+1621339038; 280; 5; 66529; 140065640339200; 2800; TSKDN 
+1621339038; 279; 7; 66529; 140063076726528; 2810; TSKEX 
+1621339038; 279; 7; 66529; 140065640339200; 2810; TSKDN 
+1621339038; 278; 9; 66529; 140063085119232; 2820; TSKEX 
+1621339038; 278; 9; 66529; 140065640339200; 2820; TSKDN 
+1621339038; 291; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 283; 2; 66529; 140063043155712; 2830; TSKEX 
+1621339038; 283; 2; 66529; 140065640339200; 2830; TSKDN 
+1621339038; 292; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 285; 1; 66529; 140063026370304; 2840; TSKEX 
+1621339038; 285; 1; 66529; 140065640339200; 2840; TSKDN 
+1621339038; 284; 3; 66529; 140063034763008; 2850; TSKEX 
+1621339038; 284; 3; 66529; 140065640339200; 2850; TSKDN 
+1621339038; 293; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 294; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 282; 8; 66529; 140063051548416; 2860; TSKEX 
+1621339038; 282; 8; 66529; 140065640339200; 2860; TSKDN 
+1621339038; 295; 9; 66529; 140065648731904; -1; RECVD 
+1621339038; 286; 4; 66529; 140063017977600; 2870; TSKEX 
+1621339038; 286; 4; 66529; 140065640339200; 2870; TSKDN 
+1621339038; 296; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 297; 9; 66529; 140065648731904; -1; RECVD 
+1621339038; 287; 5; 66529; 140063009584896; 2880; TSKEX 
+1621339038; 287; 5; 66529; 140065640339200; 2880; TSKDN 
+1621339038; 298; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 288; 6; 66529; 140063001192192; 2890; TSKEX 
+1621339038; 288; 6; 66529; 140065640339200; 2890; TSKDN 
+1621339038; 291; 2; 66529; 140062976014080; 2900; TSKEX 
+1621339038; 291; 2; 66529; 140065640339200; 2900; TSKDN 
+1621339038; 299; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 289; 7; 66529; 140062992799488; 2910; TSKEX 
+1621339038; 289; 7; 66529; 140065640339200; 2910; TSKDN 
+1621339038; 290; 6; 66529; 140062984406784; 2920; TSKEX 
+1621339038; 290; 6; 66529; 140065640339200; 2920; TSKDN 
+1621339038; 300; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 292; 4; 66529; 140062967621376; 2930; TSKEX 
+1621339038; 292; 4; 66529; 140065640339200; 2930; TSKDN 
+1621339038; 301; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 293; 3; 66529; 140062959228672; 2940; TSKEX 
+1621339038; 293; 3; 66529; 140065640339200; 2940; TSKDN 
+1621339038; 294; 2; 66529; 140062950835968; 2950; TSKEX 
+1621339038; 294; 2; 66529; 140065640339200; 2950; TSKDN 
+1621339038; 302; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 303; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 304; 1; 66529; 140065648731904; -1; RECVD 
+1621339038; 296; 3; 66529; 140062934050560; 2960; TSKEX 
+1621339038; 296; 3; 66529; 140065640339200; 2960; TSKDN 
+1621339038; 305; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 306; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 299; 2; 66529; 140062908872448; 2970; TSKEX 
+1621339038; 299; 2; 66529; 140065640339200; 2970; TSKDN 
+1621339038; 307; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 295; 9; 66529; 140062942443264; 2980; TSKEX 
+1621339038; 295; 9; 66529; 140065640339200; 2980; TSKDN 
+1621339038; 298; 5; 66529; 140062917265152; 2990; TSKEX 
+1621339038; 298; 5; 66529; 140065640339200; 2990; TSKDN 
+1621339038; 300; 2; 66529; 140062900479744; 3000; TSKEX 
+1621339038; 300; 2; 66529; 140065640339200; 3000; TSKDN 
+1621339038; 308; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 309; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 297; 9; 66529; 140062925657856; 3010; TSKEX 
+1621339038; 297; 9; 66529; 140065640339200; 3010; TSKDN 
+1621339038; 310; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 302; 3; 66529; 140062883694336; 3020; TSKEX 
+1621339038; 302; 3; 66529; 140065640339200; 3020; TSKDN 
+1621339038; 303; 2; 66529; 140062875301632; 3030; TSKEX 
+1621339038; 303; 2; 66529; 140065640339200; 3030; TSKDN 
+1621339038; 311; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 304; 1; 66529; 140062866908928; 3040; TSKEX 
+1621339038; 304; 1; 66529; 140065640339200; 3040; TSKDN 
+1621339038; 312; 9; 66529; 140065648731904; -1; RECVD 
+1621339038; 301; 7; 66529; 140062892087040; 3050; TSKEX 
+1621339038; 301; 7; 66529; 140065640339200; 3050; TSKDN 
+1621339038; 313; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 314; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 315; 9; 66529; 140065648731904; -1; RECVD 
+1621339038; 307; 3; 66529; 140062841730816; 3060; TSKEX 
+1621339038; 307; 3; 66529; 140065640339200; 3060; TSKDN 
+1621339038; 316; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 305; 7; 66529; 140062858516224; 3070; TSKEX 
+1621339038; 305; 7; 66529; 140065640339200; 3070; TSKDN 
+1621339038; 317; 9; 66529; 140065648731904; -1; RECVD 
+1621339038; 310; 2; 66529; 140062816552704; 3080; TSKEX 
+1621339038; 310; 2; 66529; 140065640339200; 3080; TSKDN 
+1621339038; 306; 8; 66529; 140062850123520; 3090; TSKEX 
+1621339038; 306; 8; 66529; 140065640339200; 3090; TSKDN 
+1621339038; 318; 3; 66529; 140065648731904; -1; RECVD 
+1621339038; 308; 5; 66529; 140062833338112; 3100; TSKEX 
+1621339038; 308; 5; 66529; 140065640339200; 3100; TSKDN 
+1621339038; 309; 4; 66529; 140062824945408; 3110; TSKEX 
+1621339038; 309; 4; 66529; 140065640339200; 3110; TSKDN 
+1621339038; 319; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 320; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 321; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 322; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 311; 8; 66529; 140062808160000; 3120; TSKEX 
+1621339038; 311; 8; 66529; 140065640339200; 3120; TSKDN 
+1621339038; 323; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 313; 7; 66529; 140062791374592; 3130; TSKEX 
+1621339038; 313; 7; 66529; 140065640339200; 3130; TSKDN 
+1621339038; 314; 6; 66529; 140062782981888; 3140; TSKEX 
+1621339038; 314; 6; 66529; 140065640339200; 3140; TSKDN 
+1621339038; 324; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 312; 9; 66529; 140062799767296; 3150; TSKEX 
+1621339038; 312; 9; 66529; 140065640339200; 3150; TSKDN 
+1621339038; 325; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 318; 3; 66529; 140062749411072; 3160; TSKEX 
+1621339038; 318; 3; 66529; 140065640339200; 3160; TSKDN 
+1621339038; 326; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 315; 9; 66529; 140062774589184; 3170; TSKEX 
+1621339038; 315; 9; 66529; 140065640339200; 3170; TSKDN 
+1621339038; 316; 8; 66529; 140062766196480; 3180; TSKEX 
+1621339038; 316; 8; 66529; 140065640339200; 3180; TSKDN 
+1621339038; 327; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 328; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 317; 9; 66529; 140062757803776; 3190; TSKEX 
+1621339038; 317; 9; 66529; 140065640339200; 3190; TSKDN 
+1621339038; 319; 6; 66529; 140062741018368; 3200; TSKEX 
+1621339038; 319; 6; 66529; 140065640339200; 3200; TSKDN 
+1621339038; 329; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 321; 4; 66529; 140062724232960; 3210; TSKEX 
+1621339038; 321; 4; 66529; 140065640339200; 3210; TSKDN 
+1621339038; 320; 6; 66529; 140062732625664; 3220; TSKEX 
+1621339038; 320; 6; 66529; 140065640339200; 3220; TSKDN 
+1621339038; 330; 1; 66529; 140065648731904; -1; RECVD 
+1621339038; 331; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 332; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 333; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 323; 6; 66529; 140062707447552; 3230; TSKEX 
+1621339038; 323; 6; 66529; 140065640339200; 3230; TSKDN 
+1621339038; 322; 8; 66529; 140062715840256; 3240; TSKEX 
+1621339038; 322; 8; 66529; 140065640339200; 3240; TSKDN 
+1621339038; 325; 4; 66529; 140062690662144; 3250; TSKEX 
+1621339038; 325; 4; 66529; 140065640339200; 3250; TSKDN 
+1621339038; 334; 4; 66529; 140065648731904; -1; RECVD 
+1621339038; 324; 7; 66529; 140062699054848; 3260; TSKEX 
+1621339038; 324; 7; 66529; 140065640339200; 3260; TSKDN 
+1621339038; 335; 7; 66529; 140065648731904; -1; RECVD 
+1621339038; 336; 1; 66529; 140065648731904; -1; RECVD 
+1621339038; 337; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 330; 1; 66529; 140062648698624; 3270; TSKEX 
+1621339038; 330; 1; 66529; 140065640339200; 3270; TSKDN 
+1621339038; 326; 8; 66529; 140062682269440; 3280; TSKEX 
+1621339038; 326; 8; 66529; 140065640339200; 3280; TSKDN 
+1621339038; 328; 5; 66529; 140062665484032; 3290; TSKEX 
+1621339038; 327; 7; 66529; 140062673876736; 3300; TSKEX 
+1621339038; 328; 5; 66529; 140065640339200; 3290; TSKDN 
+1621339038; 327; 7; 66529; 140065640339200; 3300; TSKDN 
+1621339038; 338; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 339; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 329; 7; 66529; 140062657091328; 3310; TSKEX 
+1621339038; 329; 7; 66529; 140065640339200; 3310; TSKDN 
+1621339038; 340; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 341; 8; 66529; 140065648731904; -1; RECVD 
+1621339038; 331; 7; 66529; 140062640305920; 3320; TSKEX 
+1621339038; 331; 7; 66529; 140065640339200; 3320; TSKDN 
+1621339038; 342; 6; 66529; 140065648731904; -1; RECVD 
+1621339038; 332; 7; 66529; 140062631913216; 3330; TSKEX 
+1621339038; 332; 7; 66529; 140065640339200; 3330; TSKDN 
+1621339038; 334; 4; 66529; 140062615127808; 3340; TSKEX 
+1621339038; 334; 4; 66529; 140065640339200; 3340; TSKDN 
+1621339038; 343; 2; 66529; 140065648731904; -1; RECVD 
+1621339038; 336; 1; 66529; 140062598342400; 3350; TSKEX 
+1621339038; 336; 1; 66529; 140065640339200; 3350; TSKDN 
+1621339038; 333; 7; 66529; 140062623520512; 3360; TSKEX 
+1621339038; 333; 7; 66529; 140065640339200; 3360; TSKDN 
+1621339038; 344; 5; 66529; 140065648731904; -1; RECVD 
+1621339038; 337; 2; 66529; 140062589949696; 3370; TSKEX 
+1621339038; 337; 2; 66529; 140065640339200; 3370; TSKDN 
+1621339038; 345; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 346; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 335; 7; 66529; 140062606735104; 3380; TSKEX 
+1621339039; 335; 7; 66529; 140065640339200; 3380; TSKDN 
+1621339039; 347; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 348; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 338; 5; 66529; 140062581556992; 3390; TSKEX 
+1621339039; 338; 5; 66529; 140065640339200; 3390; TSKDN 
+1621339039; 340; 2; 66529; 140062564771584; 3400; TSKEX 
+1621339039; 340; 2; 66529; 140065640339200; 3400; TSKDN 
+1621339039; 349; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 339; 6; 66529; 140062573164288; 3410; TSKEX 
+1621339039; 339; 6; 66529; 140065640339200; 3410; TSKDN 
+1621339039; 350; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 343; 2; 66529; 140062539593472; 3420; TSKEX 
+1621339039; 343; 2; 66529; 140065640339200; 3420; TSKDN 
+1621339039; 351; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 352; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 342; 6; 66529; 140062547986176; 3430; TSKEX 
+1621339039; 342; 6; 66529; 140065640339200; 3430; TSKDN 
+1621339039; 341; 8; 66529; 140062556378880; 3440; TSKEX 
+1621339039; 341; 8; 66529; 140065640339200; 3440; TSKDN 
+1621339039; 345; 2; 66529; 140062522808064; 3450; TSKEX 
+1621339039; 345; 2; 66529; 140065640339200; 3450; TSKDN 
+1621339039; 353; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 354; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 347; 1; 66529; 140062506022656; 3460; TSKEX 
+1621339039; 347; 1; 66529; 140065640339200; 3460; TSKDN 
+1621339039; 344; 5; 66529; 140062531200768; 3470; TSKEX 
+1621339039; 344; 5; 66529; 140065640339200; 3470; TSKDN 
+1621339039; 346; 3; 66529; 140062514415360; 3480; TSKEX 
+1621339039; 346; 3; 66529; 140065640339200; 3480; TSKDN 
+1621339039; 355; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 356; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 348; 3; 66529; 140062497629952; 3490; TSKEX 
+1621339039; 348; 3; 66529; 140065640339200; 3490; TSKDN 
+1621339039; 357; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 349; 3; 66529; 140062489237248; 3500; TSKEX 
+1621339039; 349; 3; 66529; 140065640339200; 3500; TSKDN 
+1621339039; 358; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 359; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 350; 4; 66529; 140062480844544; 3510; TSKEX 
+1621339039; 350; 4; 66529; 140065640339200; 3510; TSKDN 
+1621339039; 360; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 353; 1; 66529; 140062455666432; 3520; TSKEX 
+1621339039; 353; 1; 66529; 140065640339200; 3520; TSKDN 
+1621339039; 351; 4; 66529; 140062472451840; 3530; TSKEX 
+1621339039; 351; 4; 66529; 140065640339200; 3530; TSKDN 
+1621339039; 361; 5; 66529; 140065648731904; -1; RECVD 
+1621339039; 362; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 352; 6; 66529; 140062464059136; 3540; TSKEX 
+1621339039; 352; 6; 66529; 140065640339200; 3540; TSKDN 
+1621339039; 363; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 356; 1; 66529; 140062430488320; 3550; TSKEX 
+1621339039; 356; 1; 66529; 140065640339200; 3550; TSKDN 
+1621339039; 364; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 357; 2; 66529; 140062422095616; 3560; TSKEX 
+1621339039; 357; 2; 66529; 140065640339200; 3560; TSKDN 
+1621339039; 365; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 354; 7; 66529; 140062447273728; 3570; TSKEX 
+1621339039; 354; 7; 66529; 140065640339200; 3570; TSKDN 
+1621339039; 366; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 367; 5; 66529; 140065648731904; -1; RECVD 
+1621339039; 355; 9; 66529; 140062438881024; 3580; TSKEX 
+1621339039; 355; 9; 66529; 140065640339200; 3580; TSKDN 
+1621339039; 360; 2; 66529; 140062396917504; 3590; TSKEX 
+1621339039; 360; 2; 66529; 140065640339200; 3590; TSKDN 
+1621339039; 368; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 359; 4; 66529; 140062405310208; 3600; TSKEX 
+1621339039; 359; 4; 66529; 140065640339200; 3600; TSKDN 
+1621339039; 369; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 358; 8; 66529; 140062413702912; 3610; TSKEX 
+1621339039; 358; 8; 66529; 140065640339200; 3610; TSKDN 
+1621339039; 370; 5; 66529; 140065648731904; -1; RECVD 
+1621339039; 362; 2; 66529; 140062380132096; 3620; TSKEX 
+1621339039; 362; 2; 66529; 140065640339200; 3620; TSKDN 
+1621339039; 371; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 361; 5; 66529; 140062388524800; 3630; TSKEX 
+1621339039; 361; 5; 66529; 140065640339200; 3630; TSKDN 
+1621339039; 372; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 373; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 374; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 365; 3; 66529; 140062354953984; 3640; TSKEX 
+1621339039; 365; 3; 66529; 140065640339200; 3640; TSKDN 
+1621339039; 363; 6; 66529; 140062371739392; 3650; TSKEX 
+1621339039; 363; 6; 66529; 140065640339200; 3650; TSKDN 
+1621339039; 375; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 376; 5; 66529; 140065648731904; -1; RECVD 
+1621339039; 377; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 364; 8; 66529; 140062363346688; 3660; TSKEX 
+1621339039; 364; 8; 66529; 140065640339200; 3660; TSKDN 
+1621339039; 366; 6; 66529; 140062346561280; 3670; TSKEX 
+1621339039; 366; 6; 66529; 140065640339200; 3670; TSKDN 
+1621339039; 367; 5; 66529; 140062338168576; 3680; TSKEX 
+1621339039; 367; 5; 66529; 140065640339200; 3680; TSKDN 
+1621339039; 378; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 379; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 368; 6; 66529; 140062329775872; 3690; TSKEX 
+1621339039; 368; 6; 66529; 140065640339200; 3690; TSKDN 
+1621339039; 380; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 370; 5; 66529; 140062312990464; 3700; TSKEX 
+1621339039; 370; 5; 66529; 140065640339200; 3700; TSKDN 
+1621339039; 381; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 372; 4; 66529; 140062296205056; 3710; TSKEX 
+1621339039; 372; 4; 66529; 140065640339200; 3710; TSKDN 
+1621339039; 382; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 369; 9; 66529; 140062321383168; 3720; TSKEX 
+1621339039; 369; 9; 66529; 140065640339200; 3720; TSKDN 
+1621339039; 383; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 374; 4; 66529; 140062279419648; 3730; TSKEX 
+1621339039; 374; 4; 66529; 140065640339200; 3730; TSKDN 
+1621339039; 371; 9; 66529; 140062304597760; 3740; TSKEX 
+1621339039; 371; 9; 66529; 140065640339200; 3740; TSKDN 
+1621339039; 384; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 377; 2; 66529; 140062254241536; 3750; TSKEX 
+1621339039; 377; 2; 66529; 140065640339200; 3750; TSKDN 
+1621339039; 373; 8; 66529; 140062287812352; 3760; TSKEX 
+1621339039; 373; 8; 66529; 140065640339200; 3760; TSKDN 
+1621339039; 385; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 376; 5; 66529; 140062262634240; 3770; TSKEX 
+1621339039; 376; 5; 66529; 140065640339200; 3770; TSKDN 
+1621339039; 386; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 378; 4; 66529; 140062245848832; 3780; TSKEX 
+1621339039; 378; 4; 66529; 140065640339200; 3780; TSKDN 
+1621339039; 387; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 375; 9; 66529; 140062271026944; 3790; TSKEX 
+1621339039; 375; 9; 66529; 140065640339200; 3790; TSKDN 
+1621339039; 379; 3; 66529; 140062237456128; 3800; TSKEX 
+1621339039; 379; 3; 66529; 140065640339200; 3800; TSKDN 
+1621339039; 381; 1; 66529; 140062220670720; 3810; TSKEX 
+1621339039; 381; 1; 66529; 140065640339200; 3810; TSKDN 
+1621339039; 388; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 389; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 390; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 380; 6; 66529; 140062229063424; 3820; TSKEX 
+1621339039; 380; 6; 66529; 140065640339200; 3820; TSKDN 
+1621339039; 391; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 392; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 393; 6; 66529; 140065648731904; -1; RECVD 
+1621339039; 386; 1; 66529; 140062178707200; 3830; TSKEX 
+1621339039; 386; 1; 66529; 140065640339200; 3830; TSKDN 
+1621339039; 382; 9; 66529; 140062212278016; 3840; TSKEX 
+1621339039; 382; 9; 66529; 140065640339200; 3840; TSKDN 
+1621339039; 394; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 383; 8; 66529; 140062203885312; 3850; TSKEX 
+1621339039; 383; 8; 66529; 140065640339200; 3850; TSKDN 
+1621339039; 384; 7; 66529; 140062195492608; 3860; TSKEX 
+1621339039; 384; 7; 66529; 140065640339200; 3860; TSKDN 
+1621339039; 395; 5; 66529; 140065648731904; -1; RECVD 
+1621339039; 387; 3; 66529; 140062170314496; 3870; TSKEX 
+1621339039; 387; 3; 66529; 140065640339200; 3870; TSKDN 
+1621339039; 396; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 389; 1; 66529; 140062153529088; 3880; TSKEX 
+1621339039; 389; 1; 66529; 140065640339200; 3880; TSKDN 
+1621339039; 385; 8; 66529; 140062187099904; 3890; TSKEX 
+1621339039; 385; 8; 66529; 140065640339200; 3890; TSKDN 
+1621339039; 397; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 398; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 388; 6; 66529; 140062161921792; 3900; TSKEX 
+1621339039; 388; 6; 66529; 140065640339200; 3900; TSKDN 
+1621339039; 399; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 392; 1; 66529; 140062128350976; 3910; TSKEX 
+1621339039; 392; 1; 66529; 140065640339200; 3910; TSKDN 
+1621339039; 400; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 401; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 390; 9; 66529; 140062145136384; 3920; TSKEX 
+1621339039; 390; 9; 66529; 140065640339200; 3920; TSKDN 
+1621339039; 402; 8; 66529; 140065648731904; -1; RECVD 
+1621339039; 391; 9; 66529; 140062136743680; 3930; TSKEX 
+1621339039; 391; 9; 66529; 140065640339200; 3930; TSKDN 
+1621339039; 393; 6; 66529; 140062119958272; 3940; TSKEX 
+1621339039; 393; 6; 66529; 140065640339200; 3940; TSKDN 
+1621339039; 403; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 396; 2; 66529; 140062094780160; 3950; TSKEX 
+1621339039; 396; 2; 66529; 140065640339200; 3950; TSKDN 
+1621339039; 404; 4; 66529; 140065648731904; -1; RECVD 
+1621339039; 395; 5; 66529; 140062103172864; 3960; TSKEX 
+1621339039; 395; 5; 66529; 140065640339200; 3960; TSKDN 
+1621339039; 394; 7; 66529; 140062111565568; 3970; TSKEX 
+1621339039; 394; 7; 66529; 140065640339200; 3970; TSKDN 
+1621339039; 405; 1; 66529; 140065648731904; -1; RECVD 
+1621339039; 406; 9; 66529; 140065648731904; -1; RECVD 
+1621339039; 397; 7; 66529; 140062086387456; 3980; TSKEX 
+1621339039; 397; 7; 66529; 140065640339200; 3980; TSKDN 
+1621339039; 407; 2; 66529; 140065648731904; -1; RECVD 
+1621339039; 408; 7; 66529; 140065648731904; -1; RECVD 
+1621339039; 401; 2; 66529; 140062052816640; 3990; TSKEX 
+1621339039; 401; 2; 66529; 140065640339200; 3990; TSKDN 
+1621339039; 409; 3; 66529; 140065648731904; -1; RECVD 
+1621339039; 399; 7; 66529; 140062069602048; 4000; TSKEX 
+1621339039; 399; 7; 66529; 140065640339200; 4000; TSKDN 
+1621339039; 398; 9; 66529; 140062077994752; 4010; TSKEX 
+1621339039; 398; 9; 66529; 140065640339200; 4010; TSKDN 
+1621339039; 410; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 411; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 400; 9; 66529; 140062061209344; 4020; TSKEX 
+1621339040; 400; 9; 66529; 140065640339200; 4020; TSKDN 
+1621339040; 412; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 405; 1; 66529; 140062019245824; 4030; TSKEX 
+1621339040; 405; 1; 66529; 140065640339200; 4030; TSKDN 
+1621339040; 404; 4; 66529; 140062027638528; 4040; TSKEX 
+1621339040; 404; 4; 66529; 140065640339200; 4040; TSKDN 
+1621339040; 413; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 402; 8; 66529; 140062044423936; 4050; TSKEX 
+1621339040; 402; 8; 66529; 140065640339200; 4050; TSKDN 
+1621339040; 414; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 415; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 403; 9; 66529; 140062036031232; 4060; TSKEX 
+1621339040; 403; 9; 66529; 140065640339200; 4060; TSKDN 
+1621339040; 407; 2; 66529; 140062002460416; 4070; TSKEX 
+1621339040; 407; 2; 66529; 140065640339200; 4070; TSKDN 
+1621339040; 416; 4; 66529; 140065648731904; -1; RECVD 
+1621339040; 417; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 418; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 409; 3; 66529; 140061985675008; 4080; TSKEX 
+1621339040; 409; 3; 66529; 140065640339200; 4080; TSKDN 
+1621339040; 419; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 406; 9; 66529; 140062010853120; 4090; TSKEX 
+1621339040; 406; 9; 66529; 140065640339200; 4090; TSKDN 
+1621339040; 408; 7; 66529; 140061994067712; 4100; TSKEX 
+1621339040; 408; 7; 66529; 140065640339200; 4100; TSKDN 
+1621339040; 420; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 411; 3; 66529; 140061968889600; 4110; TSKEX 
+1621339040; 411; 3; 66529; 140065640339200; 4110; TSKDN 
+1621339040; 421; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 410; 6; 66529; 140061977282304; 4120; TSKEX 
+1621339040; 410; 6; 66529; 140065640339200; 4120; TSKDN 
+1621339040; 422; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 423; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 414; 3; 66529; 140061943711488; 4130; TSKEX 
+1621339040; 414; 3; 66529; 140065640339200; 4130; TSKDN 
+1621339040; 424; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 413; 6; 66529; 140061952104192; 4140; TSKEX 
+1621339040; 413; 6; 66529; 140065640339200; 4140; TSKDN 
+1621339040; 425; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 412; 9; 66529; 140061960496896; 4150; TSKEX 
+1621339040; 412; 9; 66529; 140065640339200; 4150; TSKDN 
+1621339040; 416; 4; 66529; 140061926926080; 4160; TSKEX 
+1621339040; 416; 4; 66529; 140065640339200; 4160; TSKDN 
+1621339040; 426; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 418; 2; 66529; 140061910140672; 4170; TSKEX 
+1621339040; 418; 2; 66529; 140065640339200; 4170; TSKDN 
+1621339040; 415; 7; 66529; 140061935318784; 4180; TSKEX 
+1621339040; 415; 7; 66529; 140065640339200; 4180; TSKDN 
+1621339040; 427; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 428; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 417; 7; 66529; 140061918533376; 4190; TSKEX 
+1621339040; 417; 7; 66529; 140065640339200; 4190; TSKDN 
+1621339040; 429; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 419; 5; 66529; 140061901747968; 4200; TSKEX 
+1621339040; 419; 5; 66529; 140065640339200; 4200; TSKDN 
+1621339040; 421; 3; 66529; 140061884962560; 4210; TSKEX 
+1621339040; 421; 3; 66529; 140065640339200; 4210; TSKDN 
+1621339040; 430; 4; 66529; 140065648731904; -1; RECVD 
+1621339040; 423; 2; 66529; 140061868177152; 4220; TSKEX 
+1621339040; 423; 2; 66529; 140065640339200; 4220; TSKDN 
+1621339040; 431; 4; 66529; 140065648731904; -1; RECVD 
+1621339040; 420; 7; 66529; 140061893355264; 4230; TSKEX 
+1621339040; 420; 7; 66529; 140065640339200; 4230; TSKDN 
+1621339040; 424; 2; 66529; 140061859784448; 4240; TSKEX 
+1621339040; 424; 2; 66529; 140065640339200; 4240; TSKDN 
+1621339040; 432; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 433; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 422; 9; 66529; 140061876569856; 4250; TSKEX 
+1621339040; 422; 9; 66529; 140065640339200; 4250; TSKDN 
+1621339040; 434; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 435; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 429; 1; 66529; 140061817820928; 4260; TSKEX 
+1621339040; 429; 1; 66529; 140065640339200; 4260; TSKDN 
+1621339040; 425; 7; 66529; 140061851391744; 4270; TSKEX 
+1621339040; 425; 7; 66529; 140065640339200; 4270; TSKDN 
+1621339040; 436; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 426; 8; 66529; 140061842999040; 4280; TSKEX 
+1621339040; 426; 8; 66529; 140065640339200; 4280; TSKDN 
+1621339040; 428; 5; 66529; 140061826213632; 4290; TSKEX 
+1621339040; 428; 5; 66529; 140065640339200; 4290; TSKDN 
+1621339040; 437; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 438; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 430; 4; 66529; 140061809428224; 4300; TSKEX 
+1621339040; 430; 4; 66529; 140065640339200; 4300; TSKDN 
+1621339040; 427; 9; 66529; 140061834606336; 4310; TSKEX 
+1621339040; 427; 9; 66529; 140065640339200; 4310; TSKDN 
+1621339040; 439; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 431; 4; 66529; 140061801035520; 4320; TSKEX 
+1621339040; 431; 4; 66529; 140065640339200; 4320; TSKDN 
+1621339040; 440; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 441; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 442; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 432; 7; 66529; 140061792642816; 4330; TSKEX 
+1621339040; 432; 7; 66529; 140065640339200; 4330; TSKDN 
+1621339040; 443; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 444; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 436; 3; 66529; 140061759072000; 4340; TSKEX 
+1621339040; 436; 3; 66529; 140065640339200; 4340; TSKDN 
+1621339040; 434; 6; 66529; 140061775857408; 4350; TSKEX 
+1621339040; 434; 6; 66529; 140065640339200; 4350; TSKDN 
+1621339040; 433; 8; 66529; 140061784250112; 4360; TSKEX 
+1621339040; 433; 8; 66529; 140065640339200; 4360; TSKDN 
+1621339040; 437; 2; 66529; 140061750679296; 4370; TSKEX 
+1621339040; 437; 2; 66529; 140065640339200; 4370; TSKDN 
+1621339040; 445; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 438; 2; 66529; 140061742286592; 4380; TSKEX 
+1621339040; 438; 2; 66529; 140065640339200; 4380; TSKDN 
+1621339040; 446; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 435; 8; 66529; 140061767464704; 4390; TSKEX 
+1621339040; 435; 8; 66529; 140065640339200; 4390; TSKDN 
+1621339040; 447; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 448; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 449; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 440; 5; 66529; 140061725501184; 4400; TSKEX 
+1621339040; 440; 5; 66529; 140065640339200; 4400; TSKDN 
+1621339040; 439; 7; 66529; 140061733893888; 4410; TSKEX 
+1621339040; 439; 7; 66529; 140065640339200; 4410; TSKDN 
+1621339040; 450; 4; 66529; 140065648731904; -1; RECVD 
+1621339040; 441; 5; 66529; 140061717108480; 4420; TSKEX 
+1621339040; 441; 5; 66529; 140065640339200; 4420; TSKDN 
+1621339040; 451; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 452; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 442; 7; 66529; 140061708715776; 4430; TSKEX 
+1621339040; 442; 7; 66529; 140065640339200; 4430; TSKDN 
+1621339040; 453; 6; 66529; 140065648731904; -1; RECVD 
+1621339040; 454; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 444; 6; 66529; 140061691930368; 4440; TSKEX 
+1621339040; 444; 6; 66529; 140065640339200; 4440; TSKDN 
+1621339040; 443; 8; 66529; 140061700323072; 4450; TSKEX 
+1621339040; 443; 8; 66529; 140065640339200; 4450; TSKDN 
+1621339040; 455; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 445; 6; 66529; 140061683537664; 4460; TSKEX 
+1621339040; 445; 6; 66529; 140065640339200; 4460; TSKDN 
+1621339040; 446; 5; 66529; 140061675144960; 4470; TSKEX 
+1621339040; 446; 5; 66529; 140065640339200; 4470; TSKDN 
+1621339040; 456; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 447; 5; 66529; 140061666752256; 4480; TSKEX 
+1621339040; 447; 5; 66529; 140065640339200; 4480; TSKDN 
+1621339040; 457; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 458; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 451; 1; 66529; 140061633181440; 4490; TSKEX 
+1621339040; 451; 1; 66529; 140065640339200; 4490; TSKDN 
+1621339040; 459; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 449; 5; 66529; 140061649966848; 4500; TSKEX 
+1621339040; 449; 5; 66529; 140065640339200; 4500; TSKDN 
+1621339040; 448; 7; 66529; 140061658359552; 4510; TSKEX 
+1621339040; 448; 7; 66529; 140065640339200; 4510; TSKDN 
+1621339040; 452; 1; 66529; 140061624788736; 4520; TSKEX 
+1621339040; 452; 1; 66529; 140065640339200; 4520; TSKDN 
+1621339040; 450; 4; 66529; 140061641574144; 4530; TSKEX 
+1621339040; 450; 4; 66529; 140065640339200; 4530; TSKDN 
+1621339040; 460; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 461; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 462; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 463; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 455; 1; 66529; 140061599610624; 4540; TSKEX 
+1621339040; 454; 3; 66529; 140061608003328; 4550; TSKEX 
+1621339040; 455; 1; 66529; 140065640339200; 4540; TSKDN 
+1621339040; 454; 3; 66529; 140065640339200; 4550; TSKDN 
+1621339040; 464; 3; 66529; 140065648731904; -1; RECVD 
+1621339040; 456; 1; 66529; 140061591217920; 4560; TSKEX 
+1621339040; 456; 1; 66529; 140065640339200; 4560; TSKDN 
+1621339040; 453; 6; 66529; 140061616396032; 4570; TSKEX 
+1621339040; 453; 6; 66529; 140065640339200; 4570; TSKDN 
+1621339040; 465; 4; 66529; 140065648731904; -1; RECVD 
+1621339040; 466; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 467; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 468; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 469; 5; 66529; 140065648731904; -1; RECVD 
+1621339040; 460; 2; 66529; 140061557647104; 4580; TSKEX 
+1621339040; 460; 2; 66529; 140065640339200; 4580; TSKDN 
+1621339040; 458; 5; 66529; 140061574432512; 4590; TSKEX 
+1621339040; 458; 5; 66529; 140065640339200; 4590; TSKDN 
+1621339040; 470; 2; 66529; 140065648731904; -1; RECVD 
+1621339040; 457; 9; 66529; 140061582825216; 4600; TSKEX 
+1621339040; 457; 9; 66529; 140065640339200; 4600; TSKDN 
+1621339040; 471; 9; 66529; 140065648731904; -1; RECVD 
+1621339040; 459; 7; 66529; 140061566039808; 4610; TSKEX 
+1621339040; 459; 7; 66529; 140065640339200; 4610; TSKDN 
+1621339040; 463; 3; 66529; 140061532468992; 4620; TSKEX 
+1621339040; 463; 3; 66529; 140065640339200; 4620; TSKDN 
+1621339040; 472; 7; 66529; 140065648731904; -1; RECVD 
+1621339040; 464; 3; 66529; 140061524076288; 4630; TSKEX 
+1621339040; 464; 3; 66529; 140065640339200; 4630; TSKDN 
+1621339040; 473; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 461; 8; 66529; 140061549254400; 4640; TSKEX 
+1621339040; 461; 8; 66529; 140065640339200; 4640; TSKDN 
+1621339040; 474; 8; 66529; 140065648731904; -1; RECVD 
+1621339040; 465; 4; 66529; 140061515683584; 4650; TSKEX 
+1621339040; 465; 4; 66529; 140065640339200; 4650; TSKDN 
+1621339040; 462; 9; 66529; 140061540861696; 4660; TSKEX 
+1621339040; 462; 9; 66529; 140065640339200; 4660; TSKDN 
+1621339040; 475; 1; 66529; 140065648731904; -1; RECVD 
+1621339040; 468; 1; 66529; 140061490505472; 4670; TSKEX 
+1621339040; 468; 1; 66529; 140065640339200; 4670; TSKDN 
+1621339040; 476; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 477; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 466; 7; 66529; 140061507290880; 4680; TSKEX 
+1621339041; 466; 7; 66529; 140065640339200; 4680; TSKDN 
+1621339041; 470; 2; 66529; 140061473720064; 4690; TSKEX 
+1621339041; 470; 2; 66529; 140065640339200; 4690; TSKDN 
+1621339041; 478; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 469; 5; 66529; 140061482112768; 4700; TSKEX 
+1621339041; 469; 5; 66529; 140065640339200; 4700; TSKDN 
+1621339041; 467; 8; 66529; 140061498898176; 4710; TSKEX 
+1621339041; 467; 8; 66529; 140065640339200; 4710; TSKDN 
+1621339041; 479; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 480; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 481; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 482; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 475; 1; 66529; 140061431756544; 4720; TSKEX 
+1621339041; 475; 1; 66529; 140065640339200; 4720; TSKDN 
+1621339041; 483; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 472; 7; 66529; 140061456934656; 4730; TSKEX 
+1621339041; 472; 7; 66529; 140065640339200; 4730; TSKDN 
+1621339041; 471; 9; 66529; 140061465327360; 4740; TSKEX 
+1621339041; 471; 9; 66529; 140065640339200; 4740; TSKDN 
+1621339041; 484; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 485; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 473; 8; 66529; 140061448541952; 4750; TSKEX 
+1621339041; 473; 8; 66529; 140065640339200; 4750; TSKDN 
+1621339041; 477; 2; 66529; 140061414971136; 4760; TSKEX 
+1621339041; 477; 2; 66529; 140065640339200; 4760; TSKDN 
+1621339041; 486; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 474; 8; 66529; 140061440149248; 4770; TSKEX 
+1621339041; 474; 8; 66529; 140065640339200; 4770; TSKDN 
+1621339041; 487; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 488; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 476; 6; 66529; 140061423363840; 4780; TSKEX 
+1621339041; 476; 6; 66529; 140065640339200; 4780; TSKDN 
+1621339041; 489; 4; 66529; 140065648731904; -1; RECVD 
+1621339041; 478; 6; 66529; 140061406578432; 4790; TSKEX 
+1621339041; 478; 6; 66529; 140065640339200; 4790; TSKDN 
+1621339041; 490; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 491; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 482; 3; 66529; 140061373007616; 4800; TSKEX 
+1621339041; 482; 3; 66529; 140065640339200; 4800; TSKDN 
+1621339041; 492; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 479; 8; 66529; 140061398185728; 4810; TSKEX 
+1621339041; 479; 8; 66529; 140065640339200; 4810; TSKDN 
+1621339041; 493; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 480; 9; 66529; 140061389793024; 4820; TSKEX 
+1621339041; 480; 9; 66529; 140065640339200; 4820; TSKDN 
+1621339041; 481; 8; 66529; 140061381400320; 4830; TSKEX 
+1621339041; 481; 8; 66529; 140065640339200; 4830; TSKDN 
+1621339041; 494; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 495; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 485; 5; 66529; 140061347829504; 4840; TSKEX 
+1621339041; 485; 5; 66529; 140065640339200; 4840; TSKDN 
+1621339041; 496; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 484; 7; 66529; 140061356222208; 4850; TSKEX 
+1621339041; 484; 7; 66529; 140065640339200; 4850; TSKDN 
+1621339041; 483; 9; 66529; 140061364614912; 4860; TSKEX 
+1621339041; 483; 9; 66529; 140065640339200; 4860; TSKDN 
+1621339041; 497; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 486; 6; 66529; 140061339436800; 4870; TSKEX 
+1621339041; 486; 6; 66529; 140065640339200; 4870; TSKDN 
+1621339041; 498; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 489; 4; 66529; 140061314258688; 4880; TSKEX 
+1621339041; 489; 4; 66529; 140065640339200; 4880; TSKDN 
+1621339041; 487; 7; 66529; 140061331044096; 4890; TSKEX 
+1621339041; 487; 7; 66529; 140065640339200; 4890; TSKDN 
+1621339041; 499; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 488; 7; 66529; 140061322651392; 4900; TSKEX 
+1621339041; 488; 7; 66529; 140065640339200; 4900; TSKDN 
+1621339041; 491; 3; 66529; 140061297473280; 4910; TSKEX 
+1621339041; 491; 3; 66529; 140065640339200; 4910; TSKDN 
+1621339041; 500; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 493; 1; 66529; 140061280687872; 4920; TSKEX 
+1621339041; 493; 1; 66529; 140065640339200; 4920; TSKDN 
+1621339041; 501; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 502; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 492; 6; 66529; 140061289080576; 4930; TSKEX 
+1621339041; 492; 6; 66529; 140065640339200; 4930; TSKDN 
+1621339041; 503; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 490; 9; 66529; 140061305865984; 4940; TSKEX 
+1621339041; 490; 9; 66529; 140065640339200; 4940; TSKDN 
+1621339041; 504; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 505; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 494; 7; 66529; 140061272295168; 4950; TSKEX 
+1621339041; 494; 7; 66529; 140065640339200; 4950; TSKDN 
+1621339041; 495; 6; 66529; 140061263902464; 4960; TSKEX 
+1621339041; 495; 6; 66529; 140065640339200; 4960; TSKDN 
+1621339041; 506; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 496; 6; 66529; 140061255509760; 4970; TSKEX 
+1621339041; 496; 6; 66529; 140065640339200; 4970; TSKDN 
+1621339041; 507; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 508; 4; 66529; 140065648731904; -1; RECVD 
+1621339041; 501; 1; 66529; 140061213546240; 4980; TSKEX 
+1621339041; 501; 1; 66529; 140065640339200; 4980; TSKDN 
+1621339041; 497; 8; 66529; 140061247117056; 4990; TSKEX 
+1621339041; 497; 8; 66529; 140065640339200; 4990; TSKDN 
+1621339041; 509; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 498; 8; 66529; 140061238724352; 5000; TSKEX 
+1621339041; 502; 2; 66529; 140061205153536; 5010; TSKEX 
+1621339041; 498; 8; 66529; 140065640339200; 5000; TSKDN 
+1621339041; 502; 2; 66529; 140065640339200; 5010; TSKDN 
+1621339041; 510; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 499; 8; 66529; 140061230331648; 5020; TSKEX 
+1621339041; 499; 8; 66529; 140065640339200; 5020; TSKDN 
+1621339041; 500; 7; 66529; 140061221938944; 5030; TSKEX 
+1621339041; 500; 7; 66529; 140065640339200; 5030; TSKDN 
+1621339041; 503; 3; 66529; 140061196760832; 5040; TSKEX 
+1621339041; 503; 3; 66529; 140065640339200; 5040; TSKDN 
+1621339041; 511; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 505; 1; 66529; 140061179975424; 5050; TSKEX 
+1621339041; 505; 1; 66529; 140065640339200; 5050; TSKDN 
+1621339041; 512; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 513; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 507; 2; 66529; 140061163190016; 5060; TSKEX 
+1621339041; 507; 2; 66529; 140065640339200; 5060; TSKDN 
+1621339041; 514; 4; 66529; 140065648731904; -1; RECVD 
+1621339041; 515; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 504; 9; 66529; 140061188368128; 5070; TSKEX 
+1621339041; 504; 9; 66529; 140065640339200; 5070; TSKDN 
+1621339041; 516; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 506; 7; 66529; 140061171582720; 5080; TSKEX 
+1621339041; 506; 7; 66529; 140065640339200; 5080; TSKDN 
+1621339041; 508; 4; 66529; 140061154797312; 5090; TSKEX 
+1621339041; 508; 4; 66529; 140065640339200; 5090; TSKDN 
+1621339041; 517; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 509; 3; 66529; 140061146404608; 5100; TSKEX 
+1621339041; 509; 3; 66529; 140065640339200; 5100; TSKDN 
+1621339041; 518; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 519; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 511; 2; 66529; 140061129619200; 5110; TSKEX 
+1621339041; 511; 2; 66529; 140065640339200; 5110; TSKDN 
+1621339041; 512; 1; 66529; 140061121226496; 5120; TSKEX 
+1621339041; 512; 1; 66529; 140065640339200; 5120; TSKDN 
+1621339041; 520; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 510; 7; 66529; 140061138011904; 5130; TSKEX 
+1621339041; 510; 7; 66529; 140065640339200; 5130; TSKDN 
+1621339041; 521; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 522; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 515; 1; 66529; 140061096048384; 5140; TSKEX 
+1621339041; 515; 1; 66529; 140065640339200; 5140; TSKDN 
+1621339041; 514; 4; 66529; 140061104441088; 5150; TSKEX 
+1621339041; 514; 4; 66529; 140065640339200; 5150; TSKDN 
+1621339041; 523; 1; 66529; 140065648731904; -1; RECVD 
+1621339041; 513; 7; 66529; 140061112833792; 5160; TSKEX 
+1621339041; 513; 7; 66529; 140065640339200; 5160; TSKDN 
+1621339041; 524; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 525; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 516; 5; 66529; 140061087655680; 5170; TSKEX 
+1621339041; 516; 5; 66529; 140065640339200; 5170; TSKDN 
+1621339041; 518; 3; 66529; 140061070870272; 5180; TSKEX 
+1621339041; 518; 3; 66529; 140065640339200; 5180; TSKDN 
+1621339041; 526; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 519; 2; 66529; 140061062477568; 5190; TSKEX 
+1621339041; 519; 2; 66529; 140065640339200; 5190; TSKDN 
+1621339041; 527; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 528; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 517; 9; 66529; 140061079262976; 5200; TSKEX 
+1621339041; 517; 9; 66529; 140065640339200; 5200; TSKDN 
+1621339041; 529; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 520; 5; 66529; 140061054084864; 5210; TSKEX 
+1621339041; 520; 5; 66529; 140065640339200; 5210; TSKDN 
+1621339041; 530; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 523; 1; 66529; 140061028906752; 5220; TSKEX 
+1621339041; 523; 1; 66529; 140065640339200; 5220; TSKDN 
+1621339041; 521; 5; 66529; 140061045692160; 5230; TSKEX 
+1621339041; 521; 5; 66529; 140065640339200; 5230; TSKDN 
+1621339041; 531; 3; 66529; 140065648731904; -1; RECVD 
+1621339041; 532; 9; 66529; 140065648731904; -1; RECVD 
+1621339041; 533; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 524; 5; 66529; 140061020514048; 5240; TSKEX 
+1621339041; 524; 5; 66529; 140065640339200; 5240; TSKDN 
+1621339041; 522; 9; 66529; 140061037299456; 5250; TSKEX 
+1621339041; 522; 9; 66529; 140065640339200; 5250; TSKDN 
+1621339041; 534; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 535; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 536; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 525; 8; 66529; 140061012121344; 5260; TSKEX 
+1621339041; 525; 8; 66529; 140065640339200; 5260; TSKDN 
+1621339041; 529; 2; 66529; 140060978550528; 5270; TSKEX 
+1621339041; 529; 2; 66529; 140065640339200; 5270; TSKDN 
+1621339041; 526; 7; 66529; 140061003728640; 5280; TSKEX 
+1621339041; 526; 7; 66529; 140065640339200; 5280; TSKDN 
+1621339041; 537; 6; 66529; 140065648731904; -1; RECVD 
+1621339041; 528; 5; 66529; 140060986943232; 5290; TSKEX 
+1621339041; 528; 5; 66529; 140065640339200; 5290; TSKDN 
+1621339041; 538; 8; 66529; 140065648731904; -1; RECVD 
+1621339041; 539; 5; 66529; 140065648731904; -1; RECVD 
+1621339041; 527; 9; 66529; 140060995335936; 5300; TSKEX 
+1621339041; 527; 9; 66529; 140065640339200; 5300; TSKDN 
+1621339041; 531; 3; 66529; 140060961765120; 5310; TSKEX 
+1621339041; 531; 3; 66529; 140065640339200; 5310; TSKDN 
+1621339041; 540; 7; 66529; 140065648731904; -1; RECVD 
+1621339041; 541; 2; 66529; 140065648731904; -1; RECVD 
+1621339041; 534; 2; 66529; 140060936587008; 5320; TSKEX 
+1621339041; 534; 2; 66529; 140065640339200; 5320; TSKDN 
+1621339041; 530; 9; 66529; 140060970157824; 5330; TSKEX 
+1621339041; 530; 9; 66529; 140065640339200; 5330; TSKDN 
+1621339042; 542; 7; 66529; 140065648731904; -1; RECVD 
+1621339042; 543; 9; 66529; 140065648731904; -1; RECVD 
+1621339042; 532; 9; 66529; 140060953372416; 5340; TSKEX 
+1621339042; 532; 9; 66529; 140065640339200; 5340; TSKDN 
+1621339042; 533; 8; 66529; 140060944979712; 5350; TSKEX 
+1621339042; 533; 8; 66529; 140065640339200; 5350; TSKDN 
+1621339042; 544; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 545; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 536; 6; 66529; 140060919801600; 5360; TSKEX 
+1621339042; 536; 6; 66529; 140065640339200; 5360; TSKDN 
+1621339042; 535; 8; 66529; 140060928194304; 5370; TSKEX 
+1621339042; 535; 8; 66529; 140065640339200; 5370; TSKDN 
+1621339042; 546; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 537; 6; 66529; 140060911408896; 5380; TSKEX 
+1621339042; 537; 6; 66529; 140065640339200; 5380; TSKDN 
+1621339042; 547; 7; 66529; 140065648731904; -1; RECVD 
+1621339042; 548; 6; 66529; 140065648731904; -1; RECVD 
+1621339042; 539; 5; 66529; 140060894623488; 5390; TSKEX 
+1621339042; 539; 5; 66529; 140065640339200; 5390; TSKDN 
+1621339042; 541; 2; 66529; 140060877838080; 5400; TSKEX 
+1621339042; 541; 2; 66529; 140065640339200; 5400; TSKDN 
+1621339042; 538; 8; 66529; 140060903016192; 5410; TSKEX 
+1621339042; 538; 8; 66529; 140065640339200; 5410; TSKDN 
+1621339042; 549; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 550; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 551; 3; 66529; 140065648731904; -1; RECVD 
+1621339042; 540; 7; 66529; 140060886230784; 5420; TSKEX 
+1621339042; 540; 7; 66529; 140065640339200; 5420; TSKDN 
+1621339042; 552; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 542; 7; 66529; 140060869445376; 5430; TSKEX 
+1621339042; 542; 7; 66529; 140065640339200; 5430; TSKDN 
+1621339042; 553; 8; 66529; 140065648731904; -1; RECVD 
+1621339042; 546; 1; 66529; 140060835874560; 5440; TSKEX 
+1621339042; 546; 1; 66529; 140065640339200; 5440; TSKDN 
+1621339042; 544; 5; 66529; 140060852659968; 5450; TSKEX 
+1621339042; 544; 5; 66529; 140065640339200; 5450; TSKDN 
+1621339042; 545; 4; 66529; 140060844267264; 5460; TSKEX 
+1621339042; 545; 4; 66529; 140065640339200; 5460; TSKDN 
+1621339042; 554; 6; 66529; 140065648731904; -1; RECVD 
+1621339042; 543; 9; 66529; 140060861052672; 5470; TSKEX 
+1621339042; 543; 9; 66529; 140065640339200; 5470; TSKDN 
+1621339042; 555; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 556; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 550; 1; 66529; 140060802303744; 5480; TSKEX 
+1621339042; 550; 1; 66529; 140065640339200; 5480; TSKDN 
+1621339042; 557; 3; 66529; 140065648731904; -1; RECVD 
+1621339042; 547; 7; 66529; 140060827481856; 5490; TSKEX 
+1621339042; 547; 7; 66529; 140065640339200; 5490; TSKDN 
+1621339042; 548; 6; 66529; 140060819089152; 5500; TSKEX 
+1621339042; 548; 6; 66529; 140065640339200; 5500; TSKDN 
+1621339042; 549; 5; 66529; 140060810696448; 5510; TSKEX 
+1621339042; 549; 5; 66529; 140065640339200; 5510; TSKDN 
+1621339042; 551; 3; 66529; 140060793911040; 5520; TSKEX 
+1621339042; 551; 3; 66529; 140065640339200; 5520; TSKDN 
+1621339042; 558; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 559; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 552; 4; 66529; 140060785518336; 5530; TSKEX 
+1621339042; 552; 4; 66529; 140065640339200; 5530; TSKDN 
+1621339042; 560; 7; 66529; 140065648731904; -1; RECVD 
+1621339042; 561; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 562; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 556; 1; 66529; 140060751947520; 5540; TSKEX 
+1621339042; 556; 1; 66529; 140065640339200; 5540; TSKDN 
+1621339042; 563; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 555; 4; 66529; 140060760340224; 5550; TSKEX 
+1621339042; 555; 4; 66529; 140065640339200; 5550; TSKDN 
+1621339042; 553; 8; 66529; 140060777125632; 5560; TSKEX 
+1621339042; 553; 8; 66529; 140065640339200; 5560; TSKDN 
+1621339042; 554; 6; 66529; 140060768732928; 5570; TSKEX 
+1621339042; 554; 6; 66529; 140065640339200; 5570; TSKDN 
+1621339042; 564; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 557; 3; 66529; 140060743554816; 5580; TSKEX 
+1621339042; 557; 3; 66529; 140065640339200; 5580; TSKDN 
+1621339042; 565; 6; 66529; 140065648731904; -1; RECVD 
+1621339042; 566; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 558; 4; 66529; 140060735162112; 5590; TSKEX 
+1621339042; 558; 4; 66529; 140065640339200; 5590; TSKDN 
+1621339042; 567; 3; 66529; 140065648731904; -1; RECVD 
+1621339042; 559; 4; 66529; 140060726769408; 5600; TSKEX 
+1621339042; 559; 4; 66529; 140065640339200; 5600; TSKDN 
+1621339042; 561; 1; 66529; 140060709984000; 5610; TSKEX 
+1621339042; 561; 1; 66529; 140065640339200; 5610; TSKDN 
+1621339042; 568; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 569; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 563; 1; 66529; 140060693198592; 5620; TSKEX 
+1621339042; 563; 1; 66529; 140065640339200; 5620; TSKDN 
+1621339042; 570; 7; 66529; 140065648731904; -1; RECVD 
+1621339042; 560; 7; 66529; 140060718376704; 5630; TSKEX 
+1621339042; 560; 7; 66529; 140065640339200; 5630; TSKDN 
+1621339042; 562; 4; 66529; 140060701591296; 5640; TSKEX 
+1621339042; 562; 4; 66529; 140065640339200; 5640; TSKDN 
+1621339042; 564; 1; 66529; 140060684805888; 5650; TSKEX 
+1621339042; 564; 1; 66529; 140065640339200; 5650; TSKDN 
+1621339042; 571; 9; 66529; 140065648731904; -1; RECVD 
+1621339042; 572; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 573; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 574; 8; 66529; 140065648731904; -1; RECVD 
+1621339042; 575; 5; 66529; 140065648731904; -1; RECVD 
+1621339042; 565; 6; 66529; 140060676413184; 5660; TSKEX 
+1621339042; 565; 6; 66529; 140065640339200; 5660; TSKDN 
+1621339042; 567; 3; 66529; 140060659627776; 5670; TSKEX 
+1621339042; 567; 3; 66529; 140065640339200; 5670; TSKDN 
+1621339042; 566; 5; 66529; 140060668020480; 5680; TSKEX 
+1621339042; 566; 5; 66529; 140065640339200; 5680; TSKDN 
+1621339042; 576; 2; 66529; 140065648731904; -1; RECVD 
+1621339042; 569; 1; 66529; 140060642842368; 5690; TSKEX 
+1621339042; 569; 1; 66529; 140065640339200; 5690; TSKDN 
+1621339042; 577; 8; 66529; 140065648731904; -1; RECVD 
+1621339042; 578; 1; 66529; 140065648731904; -1; RECVD 
+1621339042; 568; 5; 66529; 140060651235072; 5700; TSKEX 
+1621339042; 568; 5; 66529; 140065640339200; 5700; TSKDN 
+1621339042; 579; 9; 66529; 140065648731904; -1; RECVD 
+1621339042; 573; 1; 66529; 140060609271552; 5710; TSKEX 
+1621339042; 573; 1; 66529; 140065640339200; 5710; TSKDN 
+1621339042; 580; 3; 66529; 140065648731904; -1; RECVD 
+1621339042; 570; 7; 66529; 140060634449664; 5720; TSKEX 
+1621339042; 570; 7; 66529; 140065640339200; 5720; TSKDN 
+1621339042; 581; 4; 66529; 140065648731904; -1; RECVD 
+1621339042; 582; 8; 66529; 140065648731904; -1; RECVD 
+1621339042; 572; 5; 66529; 140060617664256; 5730; TSKEX 
+1621339042; 572; 5; 66529; 140065640339200; 5730; TSKDN 
+1621339042; 583; 6; 66529; 140065648731904; -1; RECVD 
+1621339042; 571; 9; 66529; 140060626056960; 5740; TSKEX 
+1621339042; 571; 9; 66529; 140065640339200; 5740; FAILD 
+1621339042; 576; 2; 66529; 140060584093440; 5750; TSKEX 
+1621339042; 576; 2; 66529; 140065640339200; 5750; FAILD 
+1621339042; 575; 5; 66529; 140060592486144; 5760; TSKEX 
+1621339042; 575; 5; 66529; 140065640339200; 5760; FAILD 
+1621339042; 578; 1; 66529; 140060567308032; 5770; TSKEX 
+1621339042; 578; 1; 66529; 140065640339200; 5770; FAILD 
+1621339042; 574; 8; 66529; 140060600878848; 5780; TSKEX 
+1621339042; 574; 8; 66529; 140065640339200; 5780; FAILD 
+1621339042; 577; 8; 66529; 140060575700736; 5790; TSKEX 
+1621339042; 577; 8; 66529; 140065640339200; 5790; FAILD 
+1621339042; 580; 3; 66529; 140060550522624; 5800; TSKEX 
+1621339042; 580; 3; 66529; 140065640339200; 5800; FAILD 
+1621339042; 581; 4; 66529; 140060542129920; 5810; TSKEX 
+1621339042; 581; 4; 66529; 140065640339200; 5810; FAILD 
+1621339042; 579; 9; 66529; 140060558915328; 5820; TSKEX 
+1621339042; 579; 9; 66529; 140065640339200; 5820; FAILD 
+1621339042; 583; 6; 66529; 140060525344512; 5830; TSKEX 
+1621339042; 583; 6; 66529; 140065640339200; 5830; FAILD 
+1621339042; 582; 8; 66529; 140060533737216; 5840; TSKEX 
+1621339042; 582; 8; 66529; 140065640339200; 5840; FAILD 

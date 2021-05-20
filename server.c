@@ -22,6 +22,11 @@ struct thread_param
     char* fifoname;
 };
 
+struct cleanup_pointers{
+    char* private_fifo;
+    struct Message* response_msg;
+};
+
 struct producer_thread_param{
     struct Message* msg;
     time_t begin;
@@ -34,6 +39,13 @@ int buffer_size;
 
 sem_t sem_full, sem_empty;
 
+void cleanup_handler(void *arg){
+    struct cleanup_pointers* param = (struct cleanup_pointers *) arg;
+    if(param->private_fifo != NULL) free(param->private_fifo);
+    if(param->response_msg != NULL) free(param->response_msg);
+    free(param);
+    
+}
 
 void stdout_from_fifo(struct Message *msg, char *operation){
 	fprintf(stdout,"%ld; %d; %d; %d; %ld; %d; %s \n",time(NULL), msg->rid, msg->tskload, getpid(), pthread_self(),msg->tskres, operation);
@@ -48,25 +60,31 @@ void move_buffer_elements_back(){
     pthread_mutex_unlock(&mutex);
 }
 
+
 void* thread_consumer(){
    
    struct Message msg;
+   char* private_fifo_name = NULL;
+   struct Message* response_msg = malloc(sizeof(struct Message));
+
+   struct cleanup_pointers cleanup;
+   cleanup.private_fifo = private_fifo_name;
+   cleanup.response_msg = response_msg;
+   pthread_cleanup_push(cleanup_handler, &cleanup);
 
    while(true){     
-        char* private_fifo_name = (char *) malloc(50 * sizeof(char));
+        private_fifo_name = (char *) malloc(50 * sizeof(char));
         if (private_fifo_name == NULL) perror("failed to allocate memory for the private FIFO's name!");
 
         sem_wait(&sem_empty); //decreases one every time it removes from the buffer, when it reaches 0 the buffer is empty so it block
 
         msg = buffer[0];
-        move_buffer_elements_back();
 
-		sem_post(&sem_full); //increses every time it removes from the buffer, signaling that there is empty space in the buffer so the productors can work
-        
+        move_buffer_elements_back();
+		sem_post(&sem_full); //increses every time it removes from the buffer, signaling that there is empty space in the buffer so the productors can work   
 
         sprintf(private_fifo_name, "/tmp/%d.%ld", msg.pid, msg.tid);
 
-        struct Message* response_msg = malloc(sizeof(struct Message));
         response_msg->pid = getpid();
         response_msg->rid = msg.rid;
         response_msg->tid = pthread_self();
@@ -90,9 +108,11 @@ void* thread_consumer(){
                 else stdout_from_fifo(&msg, "TSKDN");
             }
 		}
-        free(response_msg);
         free(private_fifo_name);
    }
+
+   free(response_msg);
+    pthread_cleanup_pop(0);
 }
 
 void* handle_request(void* arg){
@@ -241,6 +261,9 @@ int main(int argc, char* argv[]){
     //We can cancel the consumer thread
 	pthread_cancel(sc);
 
+    //removing public FIFO
+    remove(fifoname);
+
     //freeing memory
 	free(fifoname);
     free(buffer);
@@ -248,9 +271,6 @@ int main(int argc, char* argv[]){
     //destroy semaphores
     sem_destroy(&sem_full);
 	sem_destroy(&sem_empty);
-
-    //removing public FIFO
-    remove(fifoname);
 
 	return 0;
 }

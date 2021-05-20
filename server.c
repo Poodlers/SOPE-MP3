@@ -154,6 +154,9 @@ void *thread_create(void* arg){
             messages[num_of_threads] = msg;
 			num_of_threads++;
 		}
+        else{
+            free(msg);
+        }
 		seconds_elapsed = time(NULL) - param->begin;
     }
 
